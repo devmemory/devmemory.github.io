@@ -1,0 +1,113 @@
+[
+  {
+    "question": null,
+    "hint": null,
+    "answer": null,
+    "answerList": null,
+    "questionSeq": -1,
+    "nextSeq": null,
+    "finishedFlag": "02",
+    "result": "아쉽게도 저희는 인연이 아닌거 같습니다.\n원하시는 바를 이루길 바라겠습니다. 감사합니다."
+  },
+  {
+    "question": "채용을 원하시나요? 아니면 쇼케이스를 보러오신건가요?",
+    "hint": null,
+    "answer": null,
+    "answerList": ["채용", "쇼케이스"],
+    "questionSeq": 0,
+    "nextSeq": [1, 2],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "원하시는 포지션이 프론트엔드 개발자 맞나요?",
+    "hint": "프론트엔드 개발자 역할은 view에 보여주는 데이터 가공, 서버와 통신 등을 전담합니다. 기업에 규모에 따라 퍼블리싱도 같이 진행하지만 UI/UX 전문 개발자는 아닙니다.",
+    "answer": null,
+    "answerList": null,
+    "questionSeq": 1,
+    "nextSeq": [3, 4],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": null,
+    "hint": null,
+    "answer": null,
+    "answerList": null,
+    "questionSeq": 2,
+    "nextSeq": null,
+    "finishedFlag": "02",
+    "finishType": 0,
+    "result": "버튼을 누르면 메인 화면으로 이동합니다."
+  },
+  {
+    "question": "사내에서 사용중인 라이브러리/프레임워크가 다음중에 있나요?",
+    "hint": null,
+    "answer": null,
+    "answerList": ["React", "Svelte", "해당 없음"],
+    "questionSeq": 3,
+    "nextSeq": [5, 5, 4],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "채용하시는 포지션이 혹시 다음에 있나요?",
+    "hint": "현재 백엔드쪽 숙련도는 React, Flutter에 비해 낮습니다. 프로젝트와 공부를 병행할 예정입니다.",
+    "answer": null,
+    "answerList": [
+      "Flutter 개발자",
+      "Flutter / React 개발자",
+      "React / Node 개발자",
+      "Flutter / React / Node 개발자",
+      "해당사항 없음"
+    ],
+    "questionSeq": 4,
+    "nextSeq": [6,5,5,5,-1],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "기업 형태가 어떻게 되나요?",
+    "hint": null,
+    "answer": null,
+    "answerList": [
+      "자사 서비스 개발",
+      "SI/SM/Solution",
+      "기타"
+    ],
+    "questionSeq": 5,
+    "nextSeq": [7,6,6],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "연봉 5,000만원 이상인가요?",
+    "hint": "해당 포지션은 제가 원하지 않는 포지션이기 때문에, 금액을 조금 높게 산정했습니다. 서로 시간 낭비하지 않기위해 넣은 문항입니다.",
+    "answer": null,
+    "answerList": null,
+    "questionSeq": 6,
+    "nextSeq": [8, -1],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "연봉 4,500만원 이상인가요?",
+    "hint": null,
+    "answer": null,
+    "answerList": null,
+    "questionSeq": 7,
+    "nextSeq": [8,-1],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": null,
+    "hint": null,
+    "answer": null,
+    "answerList": null,
+    "questionSeq": 8,
+    "nextSeq": null,
+    "finishedFlag": "01",
+    "result": "이력서 보기 버튼을 눌러주세요."
+  }
+]

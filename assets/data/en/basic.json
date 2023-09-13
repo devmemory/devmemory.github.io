@@ -1,0 +1,20 @@
+{
+  "location": "Hongseong, ChungchengNamdo",
+  "status": "Currently Looking for a new opportunity",
+  "etcInfoList": [
+    {
+      "title": "Education",
+      "name": "Kongju National University",
+      "date": "2010-03 - 2017-02 (Militrary service 2012-2014)",
+      "summary": "Bachelor's degree of Electric control engineering",
+      "link": "https://english.kongju.ac.kr/eng/14038/subview.do"
+    },
+    {
+      "title": "English test score",
+      "name": "OPIC (Oral Proficiency Interview, computer)",
+      "date": "2018-10",
+      "summary": "Intermediate High",
+      "link": "/assets/img/etc/opic.jpg"
+    }
+  ]
+}

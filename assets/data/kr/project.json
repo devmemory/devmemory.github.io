@@ -1,0 +1,44 @@
+[
+  {
+    "title": "웹 라이브러리 배포",
+    "link": "https://www.npmjs.com/package/userevent-tracker",
+    "bg": "/assets/img/project/npm.jpeg",
+    "summary": "사용자 이벤트 트래킹 라이브러리",
+    "startDate": "2023-06-04",
+    "endDate": "2023-06-13",
+    "desc": [
+      "개발한 이유 : 요구사항에 부합한 기능 개발 후 배포도 해보자 하는 욕심",
+      "요구 사항 : 페이지 내에서 유저가 클릭한 이벤트, 페이지 머무른 시간 등을 트래킹",
+      "1. url change event를 이용해 들어온 시간, 나간 시간을 트래킹",
+      "2. 전역적으로 클릭 이벤트를 받아서, className 혹은 태그에 따라서 데이터 트래킹",
+      "3. webpack을 이용해서 umd 방식으로 배포"
+    ]
+  },
+  {
+    "title": "플러터 패키지 배포",
+    "link": "https://pub.dev/packages/kakaomap_webview",
+    "bg": "/assets/img/project/pub_dev.jpeg",
+    "summary": "플러터 카카오맵 패키지",
+    "startDate": "2022-06-05",
+    "endDate": "2023-05-03",
+    "desc": [
+      "개발한 이유 : 당시 null safety를 지원하는 카카오맵 패키지 부재",
+      "1. data url로 HTML을 문자열 형태로 변경",
+      "2. 변경된 데이터를 웹뷰를 이용해서 지도 페이지를 보여줌",
+      "3. 예제에 나와있는 기능들 구현 후 배포"
+    ]
+  },
+  {
+    "title": "개인 블로그",
+    "link": "https://devmemory.tistory.com/",
+    "bg": "/assets/img/project/blog.jpeg",
+    "summary": "삽질 및 나중에 찾아보고 싶은 내용 공유",
+    "startDate": "2020-08-03",
+    "endDate": "Now",
+    "desc": [
+      "초기 : 플러터 기초 및 삽질일기 작성",
+      "중기 : 웹 입문을 해보고 간단한 예제들 공유",
+      "현재 : 해보고 싶은 기술개발 진행 및 다른사람이 물어봤던 내용들 예제와 함께 공유"
+    ]
+  }
+]

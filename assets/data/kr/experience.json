@@ -1,0 +1,288 @@
+[
+  {
+    "company": "Gaon Platform",
+    "pointColor": "#2A2C42",
+    "startDate": "2023-03",
+    "endDate": "2023-08",
+    "linkList": [
+      {
+        "link": "https://www.gaonpf.com/kor/sub03/menu_01.html?pd_idx=2",
+        "icon": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Intelligence Plant condition management",
+        "member": "6 (3 백앤드 개발자, 2 프론트 개발자, 1 퍼블리셔)",
+        "environment": [
+          "라이브러리 : React",
+          "상태관리 라이브러리 : Redux",
+          "사용 언어 : HTML, CSS, Javascript",
+          "번들러 : CRA(Webpack, babel)"
+        ],
+        "descList": [
+          {
+            "title": "Window 애플리케이션을 Web으로 마이그레이션 작업 일부"
+          },
+          {
+            "title": "Web Socket을 이용해서 서버와 통신",
+            "explanation": [
+              "실시간 데이터 처리를 조금 더 효율적으로 개선하고자 Web Socket으로 변경"
+            ]
+          },
+          {
+            "title": "데이터 시각화",
+            "explanation": [
+              "Window 프로그램에서 작성한 XML를 HTML로 변환해서 표시",
+              "Highcharts를 이용해서 시계열 데이터 시각화 및 데이터 라벨링 기능 구현"
+            ]
+          },
+          {
+            "title": "리팩토링",
+            "explanation": [
+              "레거시코드 일부 제거 및 수정",
+              "공통화로 불필요한 반복작업 일부 개선",
+              "신규페이지 view와 logic을 분리해서 작업"
+            ]
+          },
+          {
+            "title": "Nginx 셋팅 및 배포",
+            "explanation": ["고객사 폐쇄망에 있는 PC에 배포 작업"]
+          }
+        ]
+      },
+      {
+        "name": "IST 외주",
+        "member": "3 (2 백앤드 개발자, 1 프론트 개발자, 1 퍼블리셔)",
+        "period": "1주",
+        "environment": [
+          "라이브러리 : React",
+          "상태관리 라이브러리 : 미사용",
+          "사용 언어 : HTML, CSS, TypeScript",
+          "번들러 : Vite"
+        ],
+        "descList": [
+          {
+            "title": "개발환경 셋팅"
+          },
+          {
+            "title": "HTML을 Docx 형태로 출력기능 구현"
+          },
+          {
+            "title": "Heatmap UI, 기능 구현"
+          }
+        ]
+      },
+      {
+        "name": "통합 알람",
+        "member": "3 (1 백엔드 개발자, 1 프론트 개발자, 1 퍼블리셔)",
+        "period": "2일",
+        "environment": [
+          "라이브러리 : React",
+          "사용 언어 : HTML, CSS, TypeScript",
+          "상태관리 : Zustand",
+          "번들러 : Vite"
+        ],
+        "descList": [
+          {
+            "title": "개발환경 셋팅"
+          },
+          {
+            "title": "REST API, WebSocket을 이용해서 서버와 통신",
+            "explanation": ["실시간 데이터(알람) 처리용도"]
+          },
+          {
+            "title": "데이터 시각화",
+            "explanation": ["Highcharts를 이용해서 시계열 데이터 시각화"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "company": "Lexynaptics",
+    "pointColor": "#ad0d3d",
+    "startDate": "2022-06",
+    "endDate": "2022-12",
+    "linkList": [
+      {
+        "link": "https://www.bubdaelaw.com/",
+        "icon": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "법대로 홈페이지",
+        "member": "3 (1 백앤드 개발자, 1 프론트 개발자, 1 스크래핑 개발자)",
+        "environment": [
+          "프레임워크 : Svelte",
+          "사용 언어 : HTML, CSS, Javascript",
+          "번들러 : Vite"
+        ],
+        "descList": [
+          {
+            "title": "개발환경 셋팅"
+          },
+          {
+            "title": "새로운 페이지 개발 및 화면 수정",
+            "explanation": [
+              "디자인 템플릿 검색 및 해당 디자인 구현",
+              "반응형 화면으로 구현"
+            ]
+          },
+          {
+            "title": "사용자 이벤트 트래킹 개발",
+            "explanation": [
+              "페이지 이동, 클릭 정보, 시간 등을 저장",
+              "배포한 라이브러리 참고"
+            ]
+          },
+          {
+            "title": "법률 진단, 문서 작성 기능 개발",
+            "explanation": [
+              "CKEditor를 이용해서 문서 작성 화면 구현",
+              "법률 진단 기능 개발"
+            ]
+          },
+          {
+            "title": "3rd party 라이브러리 연결",
+            "explanation": [
+              "주소검색 : DaumPost",
+              "결제모듈 : IamPort, Tosspayment",
+              "본인인증 : IamPort(다날)",
+              "소셜로그인 : 구글, 네이버, 카카오, 메타"
+            ]
+          },
+          {
+            "title": "WebRTC 구현"
+          }
+        ]
+      },
+      {
+        "name": "법대로 앱 개발 - 미오픈",
+        "member": "1",
+        "environment": [
+          "프레임워크 : Flutter",
+          "사용 언어 : Dart, Kotlin, Swift",
+          "상태관리 : Provider"
+        ],
+        "descList": [
+          {
+            "title": "개발환경 셋팅"
+          },
+          {
+            "title": "네이티브 기능 구현",
+            "explanation": [
+              "기기 UUID 가져오는 기능",
+              "폴더 절대경로 가져오는 기능"
+            ]
+          },
+          { "title": "웹 페이지와 동일하게 개발" },
+          {
+            "title": "WebRTC 구현"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "company": "Reindeer",
+    "pointColor": "#0044FF",
+    "startDate": "2021-04",
+    "endDate": "2022-06",
+    "linkList": [
+      {
+        "link": "https://play.google.com/store/apps/details?id=com.reindeer.g9bonapp",
+        "icon": 1
+      },
+      {
+        "link": "https://apps.apple.com/kr/app/%EC%A7%80%EA%B5%AC%EB%B3%B8%EB%8B%B7%EC%BB%B4-%EB%B9%84%EB%94%94%EC%98%A4-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C-g9bon/id1489286016",
+        "icon": 2
+      }
+    ],
+    "projects": [
+      {
+        "name": "지구본 앱",
+        "member": "3 (1 백앤드 개발자, 2 앱 개발자)",
+        "environment": [
+          "프레임워크 : Flutter",
+          "상태관리 : GetX",
+          "사용 언어 : Dart, Kotlin, Swift"
+        ],
+        "descList": [
+          {
+            "title": "새로운 페이지 개발 및 기능 구현",
+            "explanation": [
+              "디자인 된 화면을 앱에 적용",
+              "호텔 소싱 관련 페이지 작업"
+            ]
+          },
+          {
+            "title": "Kakaomap 패키지 개발 및 적용",
+            "explanation": ["카카오 지도 패키지 부재로 직접 제작", "배포한 패키지 참고"]
+          },
+          {
+            "title": "방문한 관광지 데이터 처리",
+            "explanation": [
+              "영상 길이 조정 기능 추가",
+              "Googlemap에 관광지 데이터 클러스터링 처리"
+            ]
+          },
+          {
+            "title": "3rd party 라이브러리 연결",
+            "explanation": ["결제모듈 : Bootpay", "해외지도 : Googlemap"]
+          },
+          {
+            "title": "전반적인 성능 개선",
+            "explanation": [
+              "공식문서에서 권장하는 방법으로 진행",
+              "메인화면 비디오 플레이 최적화",
+              "과도한 스택사용 금지",
+              "이미지 캐싱 미처리 부분 처리"
+            ]
+          },
+          {
+            "title": "튜토리얼 기능 추가",
+            "explanation": [
+              "Tutorial coach mark 패키지를 수정해서 페이지에 필요한 형태로 구현"
+            ]
+          },
+          {
+            "title": "데이터 스크래핑 및 엑셀 자동화",
+            "explanation": [
+              "관광지 사진 및 정보 데이터 스크래핑",
+              "스크래핑한 데이터 excel로 저장"
+            ]
+          },
+          {
+            "title": "Deeplink 추가 작업"
+          },
+          { "title": "플레이스토어, 앱스토어에 배포" }
+        ]
+      },
+      {
+        "name": "지구본 웹 - 미오픈",
+        "member": "2 (2 프론트 개발자)",
+        "period": "2개월",
+        "environment": [
+          "프레임워크 : Svelte",
+          "사용 언어 : HTML, CSS, Javascript",
+          "번들러 : Vite"
+        ],
+        "descList": [
+          {
+            "title": "화면 구현 및 기능 개발",
+            "explanation": [
+              "앱을 기반으로 비슷하게 퍼블리싱",
+              "반응형 화면 구현"
+            ]
+          },
+          {
+            "title": "3rd party 라이브러리 연결",
+            "explanation": ["결제모듈 : Bootpay"]
+          }
+        ]
+      }
+    ]
+  }
+]

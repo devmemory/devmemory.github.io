@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Web open source library",
+    "link": "https://www.npmjs.com/package/userevent-tracker",
+    "bg": "/assets/img/project/npm.jpeg",
+    "summary": "User event traking library",
+    "startDate": "2023-06-04",
+    "endDate": "2023-06-13",
+    "desc": [
+      "The reason why I developed this : I wanted to use this feature again in new companies.",
+      "1. Tracking staying time by checking url change event.",
+      "2. Tracking click date by listening click event and get data by className or tag.",
+      "3. It's publushed UMD by using webpack."
+    ]
+  },
+  {
+    "title": "Flutter open source package",
+    "link": "https://pub.dev/packages/kakaomap_webview",
+    "bg": "/assets/img/project/pub_dev.jpeg",
+    "summary": "Flutter Kakaomap webview",
+    "startDate": "2022-06-05",
+    "endDate": "2023-05-03",
+    "desc": [
+      "The reason why I developed this : There was no Kakaomap package",
+      "1. Making data url with HTML, Javascript code.",
+      "2. Setting data url in webview.",
+      "3. Adding more features based on official documents."
+    ]
+  },
+  {
+    "title": "Development blog",
+    "link": "https://devmemory.tistory.com/",
+    "bg": "/assets/img/project/blog.jpeg",
+    "summary": "To Share and review development history",
+    "startDate": "2020-08-03",
+    "endDate": "Now",
+    "desc": [
+      "Beginning : Basic Flutter stuffs and sharing what I faced and overcame.",
+      "Middle : Starting to develop web and sharing my experiences.",
+      "Now : Sharing my development which I wanted to develop."
+    ]
+  }
+]

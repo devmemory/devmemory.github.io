@@ -1,0 +1,295 @@
+[
+  {
+    "company": "Gaon Platform",
+    "pointColor": "#2A2C42",
+    "startDate": "2023-03",
+    "endDate": "2023-08",
+    "linkList": [
+      {
+        "link": "https://www.gaonpf.com/kor/sub03/menu_01.html?pd_idx=2",
+        "icon": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Intelligence Plant condition management",
+        "member": "6 (3 Backend, 2 Frontend, 1 Publisher)",
+        "environment": [
+          "View Libray : React",
+          "State management : Redux",
+          "Languages : HTML, CSS, Javascript",
+          "Bundler : CRA(Webpack, babel)"
+        ],
+        "descList": [
+          {
+            "title": "Migrating from Window app to Web"
+          },
+          {
+            "title": "Connecting with server through REST API, WebSocket",
+            "explanation": [
+              "Socket for a real time data connection and better performance"
+            ]
+          },
+          {
+            "title": "Data visualization",
+            "explanation": [
+              "Displaying XML data which is made in Desktop app to HTML",
+              "Displaying time series data by using Highcharts.",
+              "Interacting chart data with labeling educated data from Algorithm server"
+            ]
+          },
+          {
+            "title": "Refactoring",
+            "explanation": [
+              "Modularization API, reusable components, some features.",
+              "Improving performance by splitting code and optimizing state management"
+            ]
+          },
+          {
+            "title": "Nginx setting and publishing",
+            "explanation": [
+              "Publishing web app on closed network environment in pc of customers"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "IST Outsourcing project",
+        "member": "3 (2 backend, 1 frontend, 1 publisher)",
+        "period": "1 week",
+        "environment": [
+          "View Libray : React",
+          "State management : N/A",
+          "Languages : HTML, CSS, Typescript",
+          "Bundler : Vite"
+        ],
+        "descList": [
+          {
+            "title": "Setting basic configuration"
+          },
+          {
+            "title": "Developing Docx to HTML"
+          },
+          {
+            "title": "Developing heatmap"
+          }
+        ]
+      },
+      {
+        "name": "Alarm viewers",
+        "member": "3 (1 backend, 1 frontend, 1 publisher)",
+        "period": "2 days",
+        "environment": [
+          "View Libray : React",
+          "Languages : HTML, CSS, Typescript",
+          "State management : Zustand",
+          "Bundler : Vite"
+        ],
+        "descList": [
+          {
+            "title": "Setting basic configuration"
+          },
+          {
+            "title": "Connecting with server through REST API, WebSocket",
+            "explanation": ["Socket for a real time data(Alarm)"]
+          },
+          {
+            "title": "Data visualization",
+            "explanation": [
+              "Displaying time series data by using Highcharts. Alarm trend graph"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "company": "Lexynaptics",
+    "pointColor": "#ad0d3d",
+    "startDate": "2022-06",
+    "endDate": "2022-12",
+    "linkList": [
+      {
+        "link": "https://www.bubdaelaw.com/",
+        "icon": 0
+      }
+    ],
+    "projects": [
+      {
+        "name": "Bubdaelaw main page",
+        "member": "3 (1 backend, 1 frontend, 1 scrapping)",
+        "environment": [
+          "Framework : Svelte",
+          "Languages : HTML, CSS, Javascript",
+          "Bundler : Vite"
+        ],
+        "descList": [
+          {
+            "title": "Setting basic configuration"
+          },
+          {
+            "title": "New page development",
+            "explanation": [
+              "Searching a design template",
+              "Developing a Responsive UI"
+            ]
+          },
+          {
+            "title": "Developing user event traking",
+            "explanation": [
+              "Routing page, click information, staying time, etc",
+              "Check the library which I published"
+            ]
+          },
+          {
+            "title": "Developing legal diagnosis, writing legal document",
+            "explanation": [
+              "Developing legal document with CKEditor",
+              "Developing diagnosis similar with QNA page"
+            ]
+          },
+          {
+            "title": "Connecting 3rd party library",
+            "explanation": [
+              "Postal code : DaumPost",
+              "Payment module : IamPort, Tosspayment",
+              "Verification : IamPort(Danal)",
+              "Social login : Google, Naver, Kakao, Meta"
+            ]
+          },
+          {
+            "title": "Developing WebRTC"
+          }
+        ]
+      },
+      {
+        "name": "Bubdaelaw app - not launched",
+        "member": "1",
+        "environment": [
+          "Framework : Flutter",
+          "Languages : Dart, Kotlin, Swift",
+          "State management : Provider"
+        ],
+        "descList": [
+          {
+            "title": "Setting basic configuration"
+          },
+          {
+            "title": "Native features",
+            "explanation": [
+              "Getting UUID feature",
+              "Getting absolute path of download folder"
+            ]
+          },
+          { "title": "Developing UI similar with Web" },
+          {
+            "title": "Developing WebRTC"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "company": "Reindeer",
+    "pointColor": "#0044FF",
+    "startDate": "2021-04",
+    "endDate": "2022-06",
+    "linkList": [
+      {
+        "link": "https://play.google.com/store/apps/details?id=com.reindeer.g9bonapp",
+        "icon": 1
+      },
+      {
+        "link": "https://apps.apple.com/kr/app/%EC%A7%80%EA%B5%AC%EB%B3%B8%EB%8B%B7%EC%BB%B4-%EB%B9%84%EB%94%94%EC%98%A4-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C-g9bon/id1489286016",
+        "icon": 2
+      }
+    ],
+    "projects": [
+      {
+        "name": "G9bon app",
+        "member": "3 (1 backend, 2 frontend)",
+        "environment": [
+          "Framework : Flutter",
+          "State management : GetX",
+          "Languages : Dart, Kotlin, Swift"
+        ],
+        "descList": [
+          {
+            "title": "New page development",
+            "explanation": [
+              "Developing re designed pages",
+              "Developing hotel sourcing page(Business model and not launched)"
+            ]
+          },
+          {
+            "title": "Developing Kakaomap package and applying",
+            "explanation": [
+              "Developing a 3rd party package which didn't exist",
+              "Check the package which I published"
+            ]
+          },
+          {
+            "title": "Data visualization",
+            "explanation": [
+              "Developing video playing time edit",
+              "Googlemap with clustering based on latitude, longitude"
+            ]
+          },
+          {
+            "title": "Connecting 3rd party library",
+            "explanation": ["Payment module : Bootpay", "Map : Googlemap"]
+          },
+          {
+            "title": "Performance optimzation",
+            "explanation": [
+              "Improving UI based on official documents",
+              "Optimizing main screen video player",
+              "Caching image through library"
+            ]
+          },
+          {
+            "title": "Developing tutorial and modify package",
+            "explanation": [
+              "Modifying Tutorial coach mark package",
+              "Developing tutorial based on scenario"
+            ]
+          },
+          {
+            "title": "Data scrapping and generate excel",
+            "explanation": [
+              "Scrapping tourism place informations and photos",
+              "Saving scrapped data"
+            ]
+          },
+          {
+            "title": "Adding new deeplink pages"
+          },
+          { "title": "Publishin at stores" }
+        ]
+      },
+      {
+        "name": "G9bon web - not launched",
+        "member": "2 (2 frontend)",
+        "period": "2 months",
+        "environment": [
+          "Framework : Svelte",
+          "Languages : HTML, CSS, Javascript",
+          "Bundler : Vite"
+        ],
+        "descList": [
+          {
+            "title": "Developing pages",
+            "explanation": [
+              "Developing UI similar with app",
+              "Developing a Responsive UI"
+            ]
+          },
+          {
+            "title": "Connecting 3rd party library",
+            "explanation": ["Payment module : Bootpay"]
+          }
+        ]
+      }
+    ]
+  }
+]

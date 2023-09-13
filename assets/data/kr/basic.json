@@ -1,0 +1,20 @@
+{
+  "location": "충남 내포신도시(홍성)",
+  "status": "현재 구직중 입니다",
+  "etcInfoList": [
+    {
+      "title": "Education",
+      "name": "공주대학교",
+      "date": "2010-03 - 2017-02 (병역 2012-2014)",
+      "summary": "전기전자제어계측 전공 학사",
+      "link": "https://english.kongju.ac.kr/eng/14038/subview.do"
+    },
+    {
+      "title": "어학점수",
+      "name": "OPIC (Oral Proficiency Interview, computer)",
+      "date": "2018-10",
+      "summary": "Intermediate High",
+      "link": "/assets/img/etc/opic.jpg"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Front end",
+    "list": [
+      {
+        "img": "/assets/img/skills/html.svg",
+        "title": "HTML",
+        "desc": "I've never used all tags. But I can choose what I need when I develop UI. And I'm trying to use semantic tags more."
+      },
+      {
+        "img": "/assets/img/skills/css.svg",
+        "title": "CSS",
+        "desc": "I'll never be able to develop same as his product in link. But I can develop UI which designers made and simple animations.",
+        "link": "https://dev.to/afif/31-single-div-illustration-the-divtober-collection-aik"
+      },
+      {
+        "img": "/assets/img/skills/js.svg",
+        "title": "Javascript",
+        "desc": "It's the language which I've been using the most since I started developing web. And I've been developing without a problem. Just there are some features which I don't use such as prototype."
+      },
+      {
+        "img": "/assets/img/skills/ts.svg",
+        "title": "Typescript",
+        "desc": "Javascript was hard to check the type of value before debugging unlike Dart or Kotlin, Java. So I started using typescript to get rid of errors in compile time."
+      },
+      {
+        "img": "/assets/img/skills/react.svg",
+        "title": "React",
+        "desc": "When I started studying, I used class component. It was easy to learn because of similarity with Flutter. But I needed to study harder since it moved to functional component. Nowadays, I think I'm used to with that. And separating logic and view with customhooks seemed good."
+      },
+      {
+        "img": "/assets/img/skills/redux.svg",
+        "title": "Redux",
+        "desc": "I started using global state management to avoid of props hell. And I'm trying not to use much as long as it can be complexed more. Nowadays, I'm using Zustand. Because it has a same Flux structure and can get rid of boiler plate. And also, the bundle size is smaller."
+      },
+      {
+        "img": "/assets/img/skills/svelte.svg",
+        "title": "Svelte",
+        "desc": "In my first company, our main product was a mobile app. And we need a web site for products. So our team started studying it. Actually, I like the concept of Svelte. Such as two way binding, without virtual dom, reactive state management, etc. Just there weren't many companies where use that."
+      },
+      {
+        "img": "/assets/img/skills/bundler.png",
+        "title": "Bundler",
+        "desc": "I use this to build my react app. I just tried basic settings and put some features for some libraries. But nowadays, I prefer to use Vite because of bundling speed. I can check the result faster."
+      }
+    ]
+  },
+  {
+    "title": "Back end",
+    "list": [
+      {
+        "img": "/assets/img/skills/node.svg",
+        "title": "Node",
+        "desc": "I'm using it for a simple test server. But I need to study more about DB and OS."
+      },
+      {
+        "img": "/assets/img/skills/express.svg",
+        "title": "Express",
+        "desc": "I use it to develope node easier. I'm considering Nest too."
+      }
+    ]
+  },
+  {
+    "title": "Mobile app",
+    "list": [
+      {
+        "img": "/assets/img/skills/flutter.svg",
+        "title": "Flutter",
+        "desc": "I started my developer career as a Flutter developer. I've been developing with MVVM structure with that. And I developed my personal app and published package which is used more than 100 apps.",
+        "link": "https://pub.dev/packages/kakaomap_webview"
+      },
+      {
+        "img": "/assets/img/skills/android.svg",
+        "title": "Android",
+        "desc": "I developed Android before starting to develop Flutter. This basic was helpful when I developed Flutter. Especially, when I needed to use native features, I could do with Method channel and Flatform view with Kotlin."
+      }
+    ]
+  },
+  {
+    "title": "ETC",
+    "list": [
+      {
+        "img": "/assets/img/skills/sqlite.svg",
+        "title": "SQLite",
+        "desc": "I had used when I developed a mobile app or simple node server. I'm planning to study MySQL or PostgreSQL."
+      },
+      {
+        "img": "/assets/img/skills/webrtc.svg",
+        "title": "WebRTC",
+        "desc": "One of interesting skills. I could have developed Web, App, Signal server and made peer to peer video calling. If I have a chance someday, I want to develop this in a company.",
+        "link": "https://devmemory.tistory.com/107"
+      },
+      {
+        "img": "/assets/img/skills/three.svg",
+        "title": "Three js",
+        "desc": "One of interesting skills. Because I was wondering how 3D is developed. So I looked for WebGL and WebGPU. And I chose Three js. Because WebGPU is still not supported perfectly. I want to develop this someday in a company.",
+        "link": "/"
+      },
+      {
+        "img": "/assets/img/skills/nginx.svg",
+        "title": "Nginx",
+        "desc": "I have an experiene of using it when I needed to publish react app in customer's pc. I applied features such as entry point(build folder), proxy, timeout, etc."
+      }
+    ]
+  }
+]

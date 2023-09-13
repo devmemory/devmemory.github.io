@@ -1,0 +1,108 @@
+[
+  {
+    "question": null,
+    "hint": null,
+    "answer": null,
+    "answerList": null,
+    "questionSeq": -1,
+    "nextSeq": null,
+    "finishedFlag": "02",
+    "result": "Saddly, we're not matched. I wish you the best of luck in your life. :)"
+  },
+  {
+    "question": "Did you visit here to hire me or see the show case?",
+    "hint": null,
+    "answer": null,
+    "answerList": ["Recruit", "Show case"],
+    "questionSeq": 0,
+    "nextSeq": [1, 2],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "Are you sure that you want to hire Front-end developer?",
+    "hint": "The role of Front-end developer is that managing, editing data and communicating with server for the view. It's different from UI/UX engineer.",
+    "answer": null,
+    "answerList": null,
+    "questionSeq": 1,
+    "nextSeq": [3, 4],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": null,
+    "hint": null,
+    "answer": null,
+    "answerList": null,
+    "questionSeq": 2,
+    "nextSeq": null,
+    "finishedFlag": "02",
+    "result": "Click the buttion to main."
+  },
+  {
+    "question": "Do you use such a library or framework in your company?",
+    "hint": null,
+    "answer": null,
+    "answerList": ["React", "Svelte", "N/A"],
+    "questionSeq": 3,
+    "nextSeq": [5, 5, 4],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "Or do you hire multiple or another position?",
+    "hint": "Currently, I'm lacking with Back-end development. So if you hire me with this, I'm willing to study.",
+    "answer": null,
+    "answerList": [
+      "Flutter developer",
+      "Flutter / React developer",
+      "React / Node developer",
+      "Flutter / React / Node developer",
+      "N/A"
+    ],
+    "questionSeq": 4,
+    "nextSeq": [5, 5, 5, 5, -1],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "Where is your company located in?",
+    "hint": null,
+    "answer": null,
+    "answerList": ["EU", "Canada", "Austraila", "ETC"],
+    "questionSeq": 5,
+    "nextSeq": [6, 6, 6, 7],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "I don't have a visa. Are you willing to provide me?",
+    "hint": null,
+    "answer": null,
+    "answerList": null,
+    "questionSeq": 6,
+    "nextSeq": [8, -1],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": "Your country is not where I've been looking for. So, the salary must be higher than average salary in Korea. And cost of living must be reaonsable compared to salary.",
+    "hint": "Average is 3,000 USD monthly. The cost of living must be less than 40% of salary. Or what I can save is much more than 2,000 USD after paying a rent, tax.",
+    "answer": null,
+    "answerList": ["That's available", "We can't pay that much"],
+    "questionSeq": 7,
+    "nextSeq": [6, -1],
+    "finishedFlag": "00",
+    "result": null
+  },
+  {
+    "question": null,
+    "hint": null,
+    "answer": null,
+    "answerList": null,
+    "questionSeq": 8,
+    "nextSeq": null,
+    "finishedFlag": "01",
+    "result": "Time to see my cv. Click the button."
+  }
+]
