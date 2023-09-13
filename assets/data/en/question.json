@@ -21,7 +21,7 @@
   },
   {
     "question": "Are you sure that you want to hire Front-end developer?",
-    "hint": "The role of Front-end developer is that managing, editing data and communicating with server for the view. It's different from UI/UX engineer.",
+    "hint": "The role of Front-end developer is that managing, editing data and communicating with server for the view. It's not specialized at designing in general.",
     "answer": null,
     "answerList": null,
     "questionSeq": 1,
