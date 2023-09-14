@@ -1,1 +1,0 @@
-import{j as o}from"./index-a5d9bd7f.js";import{b as t}from"./box.module-cb7564a7.js";const p=({children:s,closePopup:r})=>o.jsx("div",{className:t.div_background,onClick:r,children:o.jsx("div",{onClick:i=>i.stopPropagation(),children:s})});export{p as P};
