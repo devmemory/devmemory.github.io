@@ -154,7 +154,10 @@
             ]
           },
           {
-            "title": "WebRTC 구현"
+            "title": "WebRTC 구현",
+            "explanation": [
+              "추후 변호사 - 고객간의 통화 기능 필요로 개발 진행"
+            ]
           }
         ]
       },

@@ -10,7 +10,7 @@
       {
         "img": "/assets/img/skills/css.svg",
         "title": "CSS",
-        "desc": "I'll never be able to develop same as his product in link. But I can develop UI which designers made and simple animations.",
+        "desc": "I'll never be able to develop same as his product in link. But I can develop responsive UI which designers made and simple animations.",
         "link": "https://dev.to/afif/31-single-div-illustration-the-divtober-collection-aik"
       },
       {
@@ -51,7 +51,7 @@
       {
         "img": "/assets/img/skills/node.svg",
         "title": "Node",
-        "desc": "I'm using it for a simple test server. But I need to study more about DB and OS."
+        "desc": "I'm using it for a simple test server. Since my back end knowledge is not enough, I've been studying more about DB and OS."
       },
       {
         "img": "/assets/img/skills/express.svg",

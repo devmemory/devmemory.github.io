@@ -158,7 +158,10 @@
             ]
           },
           {
-            "title": "Developing WebRTC"
+            "title": "Developing WebRTC",
+            "explanation": [
+              "Calling solution was needed between lawyers and clients"
+            ]
           }
         ]
       },

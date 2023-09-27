@@ -10,7 +10,7 @@
       {
         "img": "/assets/img/skills/css.svg",
         "title": "CSS",
-        "desc": "아래 링크에 해당되는 정도의 수준은 도달하지 못하겠지만, 기본적으로 화면구현 및 애니메이션을 구현할 수 있습니다.",
+        "desc": "아래 링크에 해당되는 정도의 수준은 도달하지 못하겠지만, 기본적으로 화면, 반응형 및 애니메이션을 구현할 수 있습니다.",
         "link": "https://dev.to/afif/31-single-div-illustration-the-divtober-collection-aik"
       },
       {
@@ -51,7 +51,7 @@
       {
         "img": "/assets/img/skills/node.svg",
         "title": "Node",
-        "desc": "간단한 테스트 서버를 개발하고 있고, 필요에 따라서 타사 모듈과 연동을 해봤지만 DB와 OS 스터디가 많이 필요합니다."
+        "desc": "간단한 테스트 서버를 개발하고 있고, 필요에 따라서 타사 모듈과 연동, 스크래핑 데이터 처리 등을 해봤지만 DB와 OS쪽이 현재 부족해서 스터디중입니다."
       },
       {
         "img": "/assets/img/skills/express.svg",
