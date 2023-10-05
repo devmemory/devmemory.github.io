@@ -7,7 +7,7 @@
     "startDate": "2023-06-04",
     "endDate": "2023-06-13",
     "desc": [
-      "The reason why I developed this : I wanted to use this feature again in new companies.",
+      "The reason why I developed this : To track user's info",
       "1. Tracking staying time by checking url change event.",
       "2. Tracking click date by listening click event and get data by className or tag.",
       "3. It's publushed UMD by using webpack."

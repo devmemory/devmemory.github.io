@@ -4,16 +4,34 @@
     "pointColor": "#2A2C42",
     "startDate": "2023-03",
     "endDate": "2023-08",
+    "position": "Frontend developer",
+    "skillList": [
+      "React",
+      "Redux",
+      "Javascript",
+      "Typescript",
+      "HTML",
+      "CSS",
+      "Nginx"
+    ],
     "linkList": [
       {
         "link": "https://www.gaonpf.com/kor/sub03/menu_01.html?pd_idx=2",
         "icon": 0
       }
     ],
+    "summary": [
+      "Data visualization : Visualizing the status of a plant using charts, XML to canvas, etc.",
+      "Feature development : Developing features that were not implemented even though the view was developed.",
+      "Refactoring : Eliminating unused status management, API calls, incorrect code structures, optimizing performance, and modularizing.",
+      "Publishing : Deploying web pages on customers' PCs."
+    ],
     "projects": [
       {
         "name": "Intelligence Plant condition management",
-        "member": "6 (3 Backend, 2 Frontend, 1 Publisher)",
+        "summary": "Plant failure diagnosis and prediction, monitoring service",
+        "member": "6 (3 Backend developers, 2 Frontend developers, 1 Publisher)",
+        "position": "Frontend developer",
         "environment": [
           "View Libray : React",
           "State management : Redux",
@@ -55,8 +73,10 @@
       },
       {
         "name": "IST Outsourcing project",
-        "member": "3 (2 backend, 1 frontend, 1 publisher)",
+        "summary": "Correlation and pump information viewer",
+        "member": "3 (2 Backend developers, 1 Frontend developer, 1 Publisher)",
         "period": "1 week",
+        "position": "Frontend developer",
         "environment": [
           "View Libray : React",
           "State management : N/A",
@@ -77,8 +97,10 @@
       },
       {
         "name": "Alarm viewers",
-        "member": "3 (1 backend, 1 frontend, 1 publisher)",
+        "summary": "Multiple plants alarm viewer",
+        "member": "3 (1 Backend developer, 1 Frontend developer, 1 Publisher)",
         "period": "2 days",
+        "position": "Frontend developer",
         "environment": [
           "View Libray : React",
           "Languages : HTML, CSS, Typescript",
@@ -108,16 +130,25 @@
     "pointColor": "#ad0d3d",
     "startDate": "2022-06",
     "endDate": "2022-12",
+    "position": "Frontend and mobile app developer",
+    "skillList": ["Svelte", "Javascript", "HTML", "CSS", "Flutter", "Dart"],
     "linkList": [
       {
         "link": "https://www.bubdaelaw.com/",
         "icon": 0
       }
     ],
+    "summary": [
+      "Main feature development : Developing user management, legal services such as diagnostics and writing documentation, etc.",
+      "Sub feature development : Developing user data tracking, WebRTC integration, connecting third-party libraries, etc.",
+      "Developing both the web and app simultaneously."
+    ],
     "projects": [
       {
         "name": "Bubdaelaw main page",
-        "member": "3 (1 backend, 1 frontend, 1 scrapping)",
+        "summary": "Legal diagnosis and document writing, legal service web",
+        "member": "3 (1 Backend developer, 1 Frontend developer, 1 Scrapping developer)",
+        "position": "Frontend developer",
         "environment": [
           "Framework : Svelte",
           "Languages : HTML, CSS, Javascript",
@@ -167,7 +198,9 @@
       },
       {
         "name": "Bubdaelaw app - not launched",
-        "member": "1",
+        "summary": "Mobile app version of legal care service",
+        "member": "1 App developer",
+        "position": "Mobile app developer",
         "environment": [
           "Framework : Flutter",
           "Languages : Dart, Kotlin, Swift",
@@ -197,6 +230,18 @@
     "pointColor": "#0044FF",
     "startDate": "2021-04",
     "endDate": "2022-06",
+    "position": "Frontend and mobile app developer",
+    "skillList": [
+      "Flutter",
+      "Dart",
+      "Android",
+      "Kotlin",
+      "Svelte",
+      "Node",
+      "Javascript",
+      "HTML",
+      "CSS"
+    ],
     "linkList": [
       {
         "link": "https://play.google.com/store/apps/details?id=com.reindeer.g9bonapp",
@@ -207,10 +252,19 @@
         "icon": 2
       }
     ],
+    "summary": [
+      "Performance optimization : Optimizing widget structure, caching, video player, and state management.",
+      "Map package development : Developing and applying the Kakaomap package.",
+      "Main feature development : Developing new travel pages, features, and connecting third-party libraries.",
+      "Scraping : Scraping museum data from a website.",
+      "Studying and developing the front-end web page for hotel booking."
+    ],
     "projects": [
       {
         "name": "G9bon app",
-        "member": "3 (1 backend, 2 frontend)",
+        "summary": "Travel platform and hotel reservation management service app",
+        "member": "3 (1 Backend developer, 2 Mobile app developers)",
+        "position": "Mobile app developer",
         "environment": [
           "Framework : Flutter",
           "State management : GetX",
@@ -272,8 +326,10 @@
       },
       {
         "name": "G9bon web - not launched",
-        "member": "2 (2 frontend)",
+        "summary": "Hotel reservation management and travel destination information service web",
+        "member": "2 Frontend developers",
         "period": "2 months",
+        "position": "Frontend developer",
         "environment": [
           "Framework : Svelte",
           "Languages : HTML, CSS, Javascript",

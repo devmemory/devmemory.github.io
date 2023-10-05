@@ -4,16 +4,34 @@
     "pointColor": "#2A2C42",
     "startDate": "2023-03",
     "endDate": "2023-08",
+    "position": "프론트엔드 개발자",
+    "skillList": [
+      "React",
+      "Redux",
+      "Javascript",
+      "Typescript",
+      "HTML",
+      "CSS",
+      "Nginx"
+    ],
     "linkList": [
       {
         "link": "https://www.gaonpf.com/kor/sub03/menu_01.html?pd_idx=2",
         "icon": 0
       }
     ],
+    "summary": [
+      "데이터 시각화 : Chart, XML to canvas 등을 통해 Plant의 상태 시각화 신규 개발 진행",
+      "기능 구현 : 기존에 퍼블리싱 된 화면중 기능 구현이 안되어 있던 부분 개발 진행",
+      "리팩토링 : 불필요한 상태변경, API 요청, 잘못된 구조 개선 등으로 성능 일부 개선 및 공통화 진행",
+      "배포 : 고객사 현장에서 Nginx설정 후 배포 진행"
+    ],
     "projects": [
       {
         "name": "Intelligence Plant condition management",
+        "summary": "플랜트 고장 진단 및 예측, 모니터링 서비스",
         "member": "6 (3 백앤드 개발자, 2 프론트 개발자, 1 퍼블리셔)",
+        "position": "프론트엔드 개발자",
         "environment": [
           "라이브러리 : React",
           "상태관리 라이브러리 : Redux",
@@ -53,8 +71,10 @@
       },
       {
         "name": "IST 외주",
+        "summary": "상관계수 및 펌프 정보 뷰어",
         "member": "3 (2 백앤드 개발자, 1 프론트 개발자, 1 퍼블리셔)",
         "period": "1주",
+        "position": "프론트엔드 개발자",
         "environment": [
           "라이브러리 : React",
           "상태관리 라이브러리 : 미사용",
@@ -75,8 +95,10 @@
       },
       {
         "name": "통합 알람",
+        "summary": "플랜트들 알람 뷰어",
         "member": "3 (1 백엔드 개발자, 1 프론트 개발자, 1 퍼블리셔)",
         "period": "2일",
+        "position": "프론트엔드 개발자",
         "environment": [
           "라이브러리 : React",
           "사용 언어 : HTML, CSS, TypeScript",
@@ -104,16 +126,25 @@
     "pointColor": "#ad0d3d",
     "startDate": "2022-06",
     "endDate": "2022-12",
+    "position": "프론트엔드, 모바일 앱 개발자",
+    "skillList": ["Svelte", "Javascript", "HTML", "CSS", "Flutter", "Dart"],
     "linkList": [
       {
         "link": "https://www.bubdaelaw.com/",
         "icon": 0
       }
     ],
+    "summary": [
+      "메인 기능 구현 : 유저관련 기본 기능, 법률 진단 및 문서작성 등을 개발",
+      "부가 기능 구현 : 유저 데이터 트래킹, WebRTC, 3rd party 라이브러리 연결 등",
+      "웹, 앱 동시에 개발 진행"
+    ],
     "projects": [
       {
         "name": "법대로 홈페이지",
-        "member": "3 (1 백앤드 개발자, 1 프론트 개발자, 1 스크래핑 개발자)",
+        "summary": "법률 진단 및 문서 작성, 법무 서비스 웹",
+        "member": "3 (1 백앤드 개발자, 1 프론트엔드 개발자, 1 스크래핑 개발자)",
+        "position": "프론트엔드 개발자",
         "environment": [
           "프레임워크 : Svelte",
           "사용 언어 : HTML, CSS, Javascript",
@@ -155,15 +186,15 @@
           },
           {
             "title": "WebRTC 구현",
-            "explanation": [
-              "추후 변호사 - 고객간의 통화 기능 필요로 개발 진행"
-            ]
+            "explanation": ["추후 변호사 - 고객간의 통화 기능 필요로 개발 진행"]
           }
         ]
       },
       {
         "name": "법대로 앱 개발 - 미오픈",
-        "member": "1",
+        "summary": "리걸 케어 서비스 앱버전",
+        "member": "1 앱 개발자",
+        "position": "모바일 앱 개발자",
         "environment": [
           "프레임워크 : Flutter",
           "사용 언어 : Dart, Kotlin, Swift",
@@ -193,6 +224,18 @@
     "pointColor": "#0044FF",
     "startDate": "2021-04",
     "endDate": "2022-06",
+    "position": "프론트엔드, 모바일 앱 개발자",
+    "skillList": [
+      "Flutter",
+      "Dart",
+      "Android",
+      "Kotlin",
+      "Svelte",
+      "Node",
+      "Javascript",
+      "HTML",
+      "CSS"
+    ],
     "linkList": [
       {
         "link": "https://play.google.com/store/apps/details?id=com.reindeer.g9bonapp",
@@ -203,10 +246,19 @@
         "icon": 2
       }
     ],
+    "summary": [
+      "퍼포먼스 개선 : 위젯 구조 최적화 및 캐싱 전략, 비디오 플레이어 로직 개선, 상태관리 최적화 등",
+      "지도 패키지 개발 : 카카오맵 패키지 개발 및 앱에 적용",
+      "화면 및 기능 개발 : 여행관련 신규 화면 기능 개발 진행, 3rd party 라이브러리 연결 등",
+      "스크래핑 : 박물관 관련 홈페이지에서 데이터 스크래핑",
+      "웹 프론트엔드 스터디 및 호텔 관련 개발 진행"
+    ],
     "projects": [
       {
         "name": "지구본 앱",
+        "summary": "여행 플랫폼, 호텔 예약관리 서비스 앱",
         "member": "3 (1 백앤드 개발자, 2 앱 개발자)",
+        "position": "모바일 앱 개발자",
         "environment": [
           "프레임워크 : Flutter",
           "상태관리 : GetX",
@@ -222,7 +274,10 @@
           },
           {
             "title": "Kakaomap 패키지 개발 및 적용",
-            "explanation": ["카카오 지도 패키지 부재로 직접 제작", "배포한 패키지 참고"]
+            "explanation": [
+              "카카오 지도 패키지 부재로 직접 제작",
+              "배포한 패키지 참고"
+            ]
           },
           {
             "title": "방문한 관광지 데이터 처리",
@@ -265,8 +320,10 @@
       },
       {
         "name": "지구본 웹 - 미오픈",
-        "member": "2 (2 프론트 개발자)",
+        "summary": "호텔 예약 관리 및 여행지 정보 웹",
+        "member": "2 프론트엔드 개발자",
         "period": "2개월",
+        "position": "프론트엔드 개발자",
         "environment": [
           "프레임워크 : Svelte",
           "사용 언어 : HTML, CSS, Javascript",

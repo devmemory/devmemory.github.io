@@ -1,6 +1,16 @@
 [
   {
     "title": "Front end",
+    "worked": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Typescript",
+      "React",
+      "Redux",
+      "Svelte",
+      "Bundler"
+    ],
     "list": [
       {
         "img": "/assets/img/skills/html.svg",
@@ -16,7 +26,7 @@
       {
         "img": "/assets/img/skills/js.svg",
         "title": "Javascript",
-        "desc": "It's the language which I've been using the most since I started developing web. And I've been developing without a problem. Just there are some features which I don't use such as prototype."
+        "desc": "It's the language which I've been using the most since I started developing web. Because of simularity with Dart, I could learn it fast. I'm trying to fill what is lacking by reading deep dive book. Nowadays, I've been using Typescript to check type and error in compile time."
       },
       {
         "img": "/assets/img/skills/ts.svg",
@@ -36,7 +46,7 @@
       {
         "img": "/assets/img/skills/svelte.svg",
         "title": "Svelte",
-        "desc": "In my first company, our main product was a mobile app. And we need a web site for products. So our team started studying it. Actually, I like the concept of Svelte. Such as two way binding, without virtual dom, reactive state management, etc. Just there weren't many companies where use that."
+        "desc": "In my first company, our main product was a mobile app. And we needed a web site for products. So our team started studying it. Actually, I like the concept of Svelte. Such as two way binding, without virtual dom, reactive state management, etc. Just there weren't many companies where use that."
       },
       {
         "img": "/assets/img/skills/bundler.png",
@@ -47,21 +57,28 @@
   },
   {
     "title": "Back end",
+    "worked": ["Node", "Express"],
     "list": [
       {
         "img": "/assets/img/skills/node.svg",
         "title": "Node",
-        "desc": "I'm using it for a simple test server. Since my back end knowledge is not enough, I've been studying more about DB and OS."
+        "desc": "I'm using it for a simple test server with MVC structure. Since my back end knowledge is not enough, I've been studying more about DB and OS. My goal is to be a full stack developer with that."
       },
       {
         "img": "/assets/img/skills/express.svg",
         "title": "Express",
         "desc": "I use it to develope node easier. I'm considering Nest too."
+      },
+      {
+        "img": "/assets/img/skills/mongodb.svg",
+        "title": "MongoDB",
+        "desc": "I'm currently studying it. I already tried simple CRUD and etc. I'm willing to use this for my side project in the future."
       }
     ]
   },
   {
     "title": "Mobile app",
+    "worked": ["Flutter", "Android"],
     "list": [
       {
         "img": "/assets/img/skills/flutter.svg",
@@ -78,7 +95,13 @@
   },
   {
     "title": "ETC",
+    "worked": ["Firebase", "WebRTC", "Nginx"],
     "list": [
+      {
+        "img": "/assets/img/skills/firebase.svg",
+        "title": "Firebase",
+        "desc": "When I made a portfolio for my first career as a developer, I made a simple community app with Flutter and Firebase."
+      },
       {
         "img": "/assets/img/skills/sqlite.svg",
         "title": "SQLite",

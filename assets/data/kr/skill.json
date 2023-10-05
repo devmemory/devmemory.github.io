@@ -1,6 +1,16 @@
 [
   {
     "title": "Front end",
+    "worked": [
+      "HTML",
+      "CSS",
+      "Javascript",
+      "Typescript",
+      "React",
+      "Redux",
+      "Svelte",
+      "Bundler"
+    ],
     "list": [
       {
         "img": "/assets/img/skills/html.svg",
@@ -16,7 +26,7 @@
       {
         "img": "/assets/img/skills/js.svg",
         "title": "Javascript",
-        "desc": "웹 개발을 시작하고 나서 주로 사용해온 언어로, 필요한 기능들을 구현하는데 문제없이 사용해왔고 라이브러리 배포를 해봤지만, prototype 등 잘 사용하지 않는게 있다보니 아직 부족함을 느끼고 있습니다."
+        "desc": "웹 개발을 시작하고 나서 주로 사용해온 언어로, Dart와 유사한점이 많아서 러닝커브는 상대적으로 낮았던거 같습니다. JS 딥다이브를 읽으면서 부족한 부분들을 채워나가고 있고, 현재는 타입추론 및 컴파일 타임에 에러를 잡기 위해 Typescript를 주로 사용하고 있습니다."
       },
       {
         "img": "/assets/img/skills/ts.svg",
@@ -47,21 +57,28 @@
   },
   {
     "title": "Back end",
+    "worked": ["Node", "Express"],
     "list": [
       {
         "img": "/assets/img/skills/node.svg",
         "title": "Node",
-        "desc": "간단한 테스트 서버를 개발하고 있고, 필요에 따라서 타사 모듈과 연동, 스크래핑 데이터 처리 등을 해봤지만 DB와 OS쪽이 현재 부족해서 스터디중입니다."
+        "desc": "간단한 테스트 서버를 MVC구조로 개발하고 있고, 필요에 따라서 타사 모듈과 연동, 스크래핑 데이터 처리 등을 해봤지만 DB와 OS쪽이 현재 부족해서 스터디중입니다."
       },
       {
         "img": "/assets/img/skills/express.svg",
         "title": "Express",
         "desc": "노드를 조금 더 편하게 개발하기 위해 express를 사용하고 있습니다."
+      },
+      {
+        "img": "/assets/img/skills/mongodb.svg",
+        "title": "MongoDB",
+        "desc": "현재 스터디 중인 db입니다. 간단한 CRUD는 해봤고, 추후에 개인 프로젝트 진행시 사용할 예정입니다."
       }
     ]
   },
   {
     "title": "Mobile app",
+    "worked": ["Flutter", "Android"],
     "list": [
       {
         "img": "/assets/img/skills/flutter.svg",
@@ -78,11 +95,17 @@
   },
   {
     "title": "ETC",
+    "worked": ["Firebase", "WebRTC", "Nginx"],
     "list": [
+      {
+        "img": "/assets/img/skills/firebase.svg",
+        "title": "Firebase",
+        "desc": "모바일 개발자로 취직하기전에, 포트폴리오로 게시판 형태로 만들어서 플러터와 연동해본 경험이 있습니다."
+      },
       {
         "img": "/assets/img/skills/sqlite.svg",
         "title": "SQLite",
-        "desc": "모바일 앱을 개발할 때 사용해왔고, 노드에서 간단한 테스트 서버를 만들고 데이터를 저장할 때 사용해왔습니다. 추후에 MySQL 혹은 PostgreSQL을 스터디할 예정입니다."
+        "desc": "모바일 앱을 개발할 때 사용해왔고, 노드에서 간단한 테스트 서버를 만들고 데이터를 저장할 때 사용해봤습니다."
       },
       {
         "img": "/assets/img/skills/webrtc.svg",
