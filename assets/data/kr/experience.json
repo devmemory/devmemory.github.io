@@ -1,6 +1,7 @@
 [
   {
     "company": "Gaon Platform",
+    "bm": "계측, AI를 이용한 플랜트 및 일상생활 위험 관리 및 사고 방지, 통계 서비스",
     "pointColor": "#2A2C42",
     "startDate": "2023-03",
     "endDate": "2023-08",
@@ -123,6 +124,7 @@
   },
   {
     "company": "Lexynaptics",
+    "bm": "법률 진단, 법률 문서 작성, 문서 수발신 서비스 등 리걸케어 서비스",
     "pointColor": "#ad0d3d",
     "startDate": "2022-06",
     "endDate": "2022-12",
@@ -221,6 +223,7 @@
   },
   {
     "company": "Reindeer",
+    "bm": "여행 가이드북 및 여행지 공유, 호텔 예약 서비스",
     "pointColor": "#0044FF",
     "startDate": "2021-04",
     "endDate": "2022-06",

@@ -19,3 +19,17 @@
   
 3. https://devmemory.github.io/#/portfolio
   - This page is my cv. You can check if you want to hire me or no
+
+### React project folder structure
+#### public
+- assets : jsonData, font, icon, img
+
+#### src
+- components
+- hooks
+- locale
+- model
+- routes(view)
+- service
+- store
+- utils

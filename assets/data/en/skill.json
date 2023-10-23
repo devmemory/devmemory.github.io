@@ -15,7 +15,7 @@
       {
         "img": "/assets/img/skills/html.svg",
         "title": "HTML",
-        "desc": "I've never used all tags. But I can choose what I need when I develop UI. And I'm trying to use semantic tags more."
+        "desc": "I've never used all tags. But I can choose what I need when I develop UI. And I've been using new HTML tags since HTML5. Such as canvas, video, audio, semantic tags."
       },
       {
         "img": "/assets/img/skills/css.svg",
@@ -31,7 +31,7 @@
       {
         "img": "/assets/img/skills/ts.svg",
         "title": "Typescript",
-        "desc": "Javascript was hard to check the type of value before debugging unlike Dart or Kotlin, Java. So I started using typescript to get rid of errors in compile time."
+        "desc": "Javascript is hard to check the type of value before debugging unlike Dart or Kotlin, Java. etc. So I started using typescript to get rid of errors in compile time."
       },
       {
         "img": "/assets/img/skills/react.svg",
@@ -67,7 +67,7 @@
       {
         "img": "/assets/img/skills/express.svg",
         "title": "Express",
-        "desc": "I use it to develope node easier. I'm considering Nest too."
+        "desc": "I use it to develope node easier. Especially, routing is the best part of using it. I'm considering Nest too."
       },
       {
         "img": "/assets/img/skills/mongodb.svg",
@@ -95,7 +95,7 @@
   },
   {
     "title": "ETC",
-    "worked": ["Firebase", "WebRTC", "Nginx"],
+    "worked": ["WebRTC", "Nginx"],
     "list": [
       {
         "img": "/assets/img/skills/firebase.svg",
@@ -105,18 +105,18 @@
       {
         "img": "/assets/img/skills/sqlite.svg",
         "title": "SQLite",
-        "desc": "I had used when I developed a mobile app or simple node server. I'm planning to study MySQL or PostgreSQL."
+        "desc": "I had used when I developed a mobile app or simple node server. I think I need to study bigger DB for my entire career."
       },
       {
         "img": "/assets/img/skills/webrtc.svg",
         "title": "WebRTC",
-        "desc": "One of interesting skills. I could have developed Web, App, Signal server and made peer to peer video calling. If I have a chance someday, I want to develop this in a company.",
+        "desc": "One of interesting skills. I could have developed Web, App, Signal server and made peer to peer video calling.",
         "link": "https://devmemory.tistory.com/107"
       },
       {
         "img": "/assets/img/skills/three.svg",
         "title": "Three js",
-        "desc": "One of interesting skills. Because I was wondering how 3D is developed. So I looked for WebGL and WebGPU. And I chose Three js. Because WebGPU is still not supported perfectly. I want to develop this someday in a company.",
+        "desc": "One of interesting skills. Because I was wondering how 3D is developed. So I looked for WebGL and WebGPU. And I chose Three js. Because WebGPU is still not supported perfectly.",
         "link": "/"
       },
       {

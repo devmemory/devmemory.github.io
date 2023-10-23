@@ -1,14 +1,43 @@
 {
   "position": "Front-end developer",
   "name": "Kim Dong Hwa",
+  "email": "devmemorydh@gmail.com",
   "location": "Hongseong, ChungchengNamdo",
   "status": "Currently Looking for a new opportunity",
+  "about": [
+    {
+      "gap": false,
+      "text": "I'm a Front end developer who have been developing React, Svelte, Flutter, and a bit of Node."
+    },
+    {
+      "gap": true,
+      "text": "I'm currently looking for a company where I can have a better opportunity to develop interesting projects."
+    },
+    { "gap": false, "text": "These are my strength" },
+    {
+      "gap": true,
+      "text": "1. I developed and published two open source libaries.",
+      "linkList": [
+        "https://pub.dev/packages/kakaomap_webview",
+        "https://www.npmjs.com/package/userevent-tracker"
+      ]
+    },
+    {
+      "gap": true,
+      "text": "2. I've been managing my own development blog. And I'll never stop it whenever I think it's what I want to share. Such as my experiences and what I want to memorize for someday.",
+      "linkList": ["https://devmemory.tistory.com/"]
+    },
+    {
+      "enter": true,
+      "text": "3. I have worked at two startup companies, where I gained experience in all aspects of project development, from initial setup to final product. My experience will be a valuable asset in the project-building process."
+    }
+  ],
   "etcInfoList": [
     {
       "title": "Education",
       "name": "Kongju National University",
-      "date": "2010-03 - 2017-02 (Militrary service 2012-2014)",
-      "summary": "Bachelor's degree of Electrical and Electronics  engineering",
+      "date": "2010-03 - 2017-02 (Militrary 2 years)",
+      "summary": "Bachelor's degree of Electrical and Electronics engineering",
       "link": "https://english.kongju.ac.kr/eng/14038/subview.do"
     },
     {

@@ -1,6 +1,7 @@
 [
   {
     "company": "Gaon Platform",
+    "bm": "Measurement, AI-based plant and life risk management and accident prevention, statistics service",
     "pointColor": "#2A2C42",
     "startDate": "2023-03",
     "endDate": "2023-08",
@@ -88,7 +89,7 @@
             "title": "Setting basic configuration"
           },
           {
-            "title": "Developing Docx to HTML"
+            "title": "Developing HTML to Docx"
           },
           {
             "title": "Developing heatmap"
@@ -127,6 +128,7 @@
   },
   {
     "company": "Lexynaptics",
+    "bm": "Legal diagnosis, legal document drafting, document transmission, and other legal care service",
     "pointColor": "#ad0d3d",
     "startDate": "2022-06",
     "endDate": "2022-12",
@@ -227,6 +229,7 @@
   },
   {
     "company": "Reindeer",
+    "bm": "Travel guidebook and sharing travel spots, hotel reservation service",
     "pointColor": "#0044FF",
     "startDate": "2021-04",
     "endDate": "2022-06",
@@ -321,7 +324,7 @@
           {
             "title": "Adding new deeplink pages"
           },
-          { "title": "Publishin at stores" }
+          { "title": "Publishing at stores" }
         ]
       },
       {
