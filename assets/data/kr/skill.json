@@ -41,7 +41,7 @@
       {
         "img": "/assets/img/skills/redux.svg",
         "title": "Redux",
-        "desc": "전역 상태관리로 props 지옥을 피하기 위해 사용하고 있는데, 복잡도를 늘리지 않는 선에서 작업을 진행하고 있습니다. 최근에는 boilerplate가 적은 Zustand로 개발하고 있고, 전역 상태관리를 최대한 덜 사용하는쪽으로 작업하고 있습니다."
+        "desc": "전역 상태관리로 props drilling을 피하기 위해 사용하고 있는데, 복잡도를 늘리지 않는 선에서 작업을 진행하고 있습니다. 최근에는 boilerplate가 적은 Zustand로 개발하고 있고, 전역 상태관리를 최대한 덜 사용하는쪽으로 작업하고 있습니다."
       },
       {
         "img": "/assets/img/skills/svelte.svg",

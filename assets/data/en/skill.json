@@ -41,7 +41,7 @@
       {
         "img": "/assets/img/skills/redux.svg",
         "title": "Redux",
-        "desc": "I started using global state management to avoid of props hell. And I'm trying not to use much as long as it can be complexed more. Nowadays, I'm using Zustand. Because it has a same Flux structure and can get rid of boiler plate. And also, the bundle size is smaller."
+        "desc": "I started using global state management to avoid of props drilling. And I'm trying not to use much as long as it can be complexed more. Nowadays, I'm using Zustand. Because it has a same Flux structure and can get rid of boiler plate. And also, the bundle size is smaller."
       },
       {
         "img": "/assets/img/skills/svelte.svg",
