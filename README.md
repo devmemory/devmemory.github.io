@@ -33,3 +33,11 @@
 - service
 - store
 - utils
+
+### library
+- @react-pdf/renderer : to generate pdf
+- @react-three/fiber : three wrapper
+- axios : to get date from specific url
+- file-saver : to save pdf
+- three : 3d renderer
+- zustand : state management

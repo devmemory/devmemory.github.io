@@ -13,7 +13,7 @@
       "gap": true,
       "text": "I'm currently looking for a company where I can have a better opportunity to develop interesting projects."
     },
-    { "gap": false, "text": "These are my strength" },
+    { "gap": true, "text": "These are my strength : " },
     {
       "gap": true,
       "text": "1. I developed and published two open source libaries.",
@@ -24,7 +24,7 @@
     },
     {
       "gap": true,
-      "text": "2. I've been managing my own development blog. And I'll never stop it whenever I think it's what I want to share. Such as my experiences and what I want to memorize for someday.",
+      "text": "2. I've been managing my own development blog. And I'll never close it. I want to share my experiences and memorize what I developed.",
       "linkList": ["https://devmemory.tistory.com/"]
     },
     {
