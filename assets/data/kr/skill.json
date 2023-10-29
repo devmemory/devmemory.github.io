@@ -1,16 +1,6 @@
 [
   {
-    "title": "Front end",
-    "worked": [
-      "HTML",
-      "CSS",
-      "Javascript",
-      "Typescript",
-      "React",
-      "Redux",
-      "Svelte",
-      "Bundler"
-    ],
+    "title": "Strong",
     "list": [
       {
         "img": "/assets/img/skills/html.svg",
@@ -49,16 +39,21 @@
         "desc": "개발자로 첫 회사에서 모바일 개발을 하다가 웹 페이지가 필요하게 되어 스터디 하게 됐는데, 러닝커브도 적었고, 조심하지 않으면 위험할수도 있는 양방향 바인딩과 virtual dom을 사용하지 않는 환경, 그리고 reactive한 상태변경 방식이 너무 맘에 들었습니다만 일자리가 없어서 메인으로 개발하고 있지 않습니다."
       },
       {
-        "img": "/assets/img/skills/bundler.png",
-        "title": "Bundler",
-        "desc": "번들 사이즈 개선 및 필요한 옵션들을 변경하기 위해 사용을 해봤는데, 아직 많은 부분을 튜닝할 기회는 없었습니다. 최근에는 빠른 번들링 속도로 Vite를 사용하고 있습니다."
+        "img": "/assets/img/skills/flutter.svg",
+        "title": "Flutter",
+        "desc": "개발자 첫 시작을 Flutter로 해서, Provider를 사용해서 MVVM 패턴으로 개발을 해왔고, 개인앱, 라이브러리를 배포해본 경험이 있습니다.",
+        "link": "https://pub.dev/packages/kakaomap_webview"
       }
     ]
   },
   {
-    "title": "Back end",
-    "worked": ["Node", "Express"],
+    "title": "Knowledgeable",
     "list": [
+      {
+        "img": "/assets/img/skills/bundler.png",
+        "title": "Bundler",
+        "desc": "번들 사이즈 개선 및 필요한 옵션들을 변경하기 위해 사용을 해봤는데, 아직 많은 부분을 튜닝할 기회는 없었습니다. 최근에는 빠른 번들링 속도로 Vite를 사용하고 있습니다."
+      },
       {
         "img": "/assets/img/skills/node.svg",
         "title": "Node",
@@ -73,18 +68,6 @@
         "img": "/assets/img/skills/mongodb.svg",
         "title": "MongoDB",
         "desc": "현재 스터디 중인 db입니다. 간단한 CRUD는 해봤고, 추후에 개인 프로젝트 진행시 사용할 예정입니다."
-      }
-    ]
-  },
-  {
-    "title": "Mobile app",
-    "worked": ["Flutter", "Android"],
-    "list": [
-      {
-        "img": "/assets/img/skills/flutter.svg",
-        "title": "Flutter",
-        "desc": "개발자 첫 시작을 Flutter로 해서, Provider를 사용해서 MVVM 패턴으로 개발을 해왔고, 개인앱, 라이브러리를 배포해본 경험이 있습니다.",
-        "link": "https://pub.dev/packages/kakaomap_webview"
       },
       {
         "img": "/assets/img/skills/android.svg",
@@ -95,7 +78,6 @@
   },
   {
     "title": "ETC",
-    "worked": ["WebRTC", "Nginx"],
     "list": [
       {
         "img": "/assets/img/skills/firebase.svg",

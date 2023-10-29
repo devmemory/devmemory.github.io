@@ -1,16 +1,6 @@
 [
   {
-    "title": "Front end",
-    "worked": [
-      "HTML",
-      "CSS",
-      "Javascript",
-      "Typescript",
-      "React",
-      "Redux",
-      "Svelte",
-      "Bundler"
-    ],
+    "title": "Strong",
     "list": [
       {
         "img": "/assets/img/skills/html.svg",
@@ -49,16 +39,21 @@
         "desc": "In my first company, our main product was a mobile app. And we needed a web site for products. So our team started studying it. Actually, I like the concept of Svelte. Such as two way binding, without virtual dom, reactive state management, etc. Just there weren't many companies where use that."
       },
       {
-        "img": "/assets/img/skills/bundler.png",
-        "title": "Bundler",
-        "desc": "I use this to build my react app. I just tried basic settings and put some features for some libraries. But nowadays, I prefer to use Vite because of bundling speed. I can check the result faster."
+        "img": "/assets/img/skills/flutter.svg",
+        "title": "Flutter",
+        "desc": "I started my developer career as a Flutter developer. I've been developing with MVVM structure with that. And I developed my personal app and published package which is used more than 100 apps.",
+        "link": "https://pub.dev/packages/kakaomap_webview"
       }
     ]
   },
   {
-    "title": "Back end",
-    "worked": ["Node", "Express"],
+    "title": "Knowledgeable",
     "list": [
+      {
+        "img": "/assets/img/skills/bundler.png",
+        "title": "Bundler",
+        "desc": "I use this to build my react app. I just tried basic settings and put some features for some libraries. But nowadays, I prefer to use Vite because of bundling speed. I can check the result faster."
+      },
       {
         "img": "/assets/img/skills/node.svg",
         "title": "Node",
@@ -73,18 +68,6 @@
         "img": "/assets/img/skills/mongodb.svg",
         "title": "MongoDB",
         "desc": "I'm currently studying it. I already tried simple CRUD and etc. I'm willing to use this for my side project in the future."
-      }
-    ]
-  },
-  {
-    "title": "Mobile app",
-    "worked": ["Flutter", "Android"],
-    "list": [
-      {
-        "img": "/assets/img/skills/flutter.svg",
-        "title": "Flutter",
-        "desc": "I started my developer career as a Flutter developer. I've been developing with MVVM structure with that. And I developed my personal app and published package which is used more than 100 apps.",
-        "link": "https://pub.dev/packages/kakaomap_webview"
       },
       {
         "img": "/assets/img/skills/android.svg",
@@ -95,7 +78,6 @@
   },
   {
     "title": "ETC",
-    "worked": ["WebRTC", "Nginx"],
     "list": [
       {
         "img": "/assets/img/skills/firebase.svg",
