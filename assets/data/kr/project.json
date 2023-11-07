@@ -5,7 +5,7 @@
     "bg": "/assets/img/intro/developer.png",
     "summary": "이력서, Three js 화면, Q & A 화면",
     "startDate": "2023-09-04",
-    "endDate": null,
+    "endDate": "2023-10-25",
     "desc": [
       "사용 언어 : Typescript, HTML, CSS",
       "데이터 : json 파일",
