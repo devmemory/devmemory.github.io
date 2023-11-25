@@ -3,13 +3,13 @@
     "title": "웹 포트폴리오 페이지",
     "link": "https://devmemory.github.io/",
     "bg": "/assets/img/intro/developer.png",
-    "summary": "이력서, Three js 화면, Q & A 화면",
+    "summary": "이력서, Three.js 화면, Q & A 화면",
     "startDate": "2023-09-04",
     "endDate": "2023-10-25",
     "desc": [
-      "사용 언어 : Typescript, HTML, CSS",
+      "사용 언어 : TypeScript, HTML, CSS",
       "데이터 : json 파일",
-      "1. Three js를 이용한 위경도 좌표를 x,y,z 변환 및 역변환",
+      "1. Three.js를 이용한 위경도 좌표를 x,y,z 변환 및 역변환",
       "2. 전역 상태관리 라이브러리와 json을 이용한 Localization",
       "3. pdf로 자동 생성(이력서)",
       "4. 질문 답변 로직화"

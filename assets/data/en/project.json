@@ -3,13 +3,13 @@
     "title": "Web portfolio page",
     "link": "https://devmemory.github.io/",
     "bg": "/assets/img/intro/developer.png",
-    "summary": "Resume, Three js test, Q & A page",
+    "summary": "Resume, Three.js test, Q & A page",
     "startDate": "2023-09-04",
     "endDate": "2023-10-25",
     "desc": [
-      "Langauge : Typescript, HTML, CSS",
+      "Langauge : TypeScript, HTML, CSS",
       "Data : json files",
-      "1. Three js with converting latitude langitude to x, y, z and opposite",
+      "1. Three.js with converting latitude langitude to x, y, z and opposite",
       "2. My personal localization with state management library and json",
       "3. Generating pdf automatically from HTML(Resume)",
       "4. Question and answer with logics"
@@ -38,7 +38,7 @@
     "endDate": "2023-05-03",
     "desc": [
       "The reason why I developed this : There was no Kakaomap package",
-      "1. Making data url with HTML, Javascript code.",
+      "1. Making data url with HTML, JavaScript code.",
       "2. Setting data url in webview.",
       "3. Adding more features based on official documents."
     ]

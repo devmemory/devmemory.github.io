@@ -15,13 +15,13 @@
       },
       {
         "img": "/assets/img/skills/js.svg",
-        "title": "Javascript",
-        "desc": "It's the language which I've been using the most since I started developing web. Because of simularity with Dart, I could learn it fast. I'm trying to fill what is lacking by reading deep dive book. Nowadays, I've been using Typescript to check type and error in compile time."
+        "title": "JavaScript",
+        "desc": "It's the language which I've been using the most since I started developing web. Because of simularity with Dart, I could learn it fast. I'm trying to fill what is lacking by reading deep dive book. Nowadays, I've been using TypeScript to check type and error in compile time."
       },
       {
         "img": "/assets/img/skills/ts.svg",
-        "title": "Typescript",
-        "desc": "Javascript is hard to check the type of value before debugging unlike Dart or Kotlin, Java. etc. So I started using typescript to get rid of errors in compile time."
+        "title": "TypeScript",
+        "desc": "JavaScript is hard to check the type of value before debugging unlike Dart or Kotlin, Java. etc. So I started using typescript to get rid of errors in compile time."
       },
       {
         "img": "/assets/img/skills/react.svg",
@@ -97,13 +97,13 @@
       },
       {
         "img": "/assets/img/skills/three.svg",
-        "title": "Three js",
-        "desc": "One of interesting skills. Because I was wondering how 3D is developed. So I looked for WebGL and WebGPU. And I chose Three js. Because WebGPU is still not supported perfectly.",
+        "title": "Three.js",
+        "desc": "One of interesting skills. Because I was wondering how 3D is developed. So I looked for WebGL and WebGPU. And I chose Three.js. Because WebGPU is still not supported perfectly.",
         "link": "/"
       },
       {
         "img": "/assets/img/skills/nginx.svg",
-        "title": "Nginx",
+        "title": "NGINX",
         "desc": "I have an experiene of using it when I needed to publish react app in customer's pc. I applied features such as entry point(build folder), proxy, timeout, etc."
       }
     ]

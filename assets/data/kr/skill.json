@@ -15,12 +15,12 @@
       },
       {
         "img": "/assets/img/skills/js.svg",
-        "title": "Javascript",
-        "desc": "웹 개발을 시작하고 나서 주로 사용해온 언어로, Dart와 유사한점이 많아서 러닝커브는 상대적으로 낮았던거 같습니다. JS 딥다이브를 읽으면서 부족한 부분들을 채워나가고 있고, 현재는 타입추론 및 컴파일 타임에 에러를 잡기 위해 Typescript를 주로 사용하고 있습니다."
+        "title": "JavaScript",
+        "desc": "웹 개발을 시작하고 나서 주로 사용해온 언어로, Dart와 유사한점이 많아서 러닝커브는 상대적으로 낮았던거 같습니다. JS 딥다이브를 읽으면서 부족한 부분들을 채워나가고 있고, 현재는 타입추론 및 컴파일 타임에 에러를 잡기 위해 TypeScript를 주로 사용하고 있습니다."
       },
       {
         "img": "/assets/img/skills/ts.svg",
-        "title": "Typescript",
+        "title": "TypeScript",
         "desc": "Dart나 Kotlin, Java와 같이 강력한 정적타입 언어를 사용하다가 JS를 사용했을 때, 동적 타입이 주는 불편함을 덜어주는 용도, 그리고 타입 추론할 때 많은 도움을 받고 있습니다."
       },
       {
@@ -97,13 +97,13 @@
       },
       {
         "img": "/assets/img/skills/three.svg",
-        "title": "Three js",
+        "title": "Three.js",
         "desc": "현재 관심있는 기술중 하나로, 3d 개발에 관심이 생겨서 WebGL, WebGPU에 대해 알아봤고, 러닝커브가 적고, 베타버전이 아니어서 선택을 하게 됐고 간단한 예제로 구현해본 경험이 있습니다.",
         "link": "/"
       },
       {
         "img": "/assets/img/skills/nginx.svg",
-        "title": "Nginx",
+        "title": "NGINX",
         "desc": "build한 리액트 웹 테스트, 현장에 직접 배포를 하는 경우가 있어서, 필요한 셋팅들을 적용해서 배포해본적이 있습니다."
       }
     ]

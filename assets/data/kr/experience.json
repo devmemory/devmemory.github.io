@@ -9,11 +9,11 @@
     "skillList": [
       "React",
       "Redux",
-      "Javascript",
-      "Typescript",
+      "JavaScript",
+      "TypeScript",
       "HTML",
       "CSS",
-      "Nginx"
+      "NGINX"
     ],
     "linkList": [
       {
@@ -22,10 +22,10 @@
       }
     ],
     "summary": [
-      "데이터 시각화 : Chart, XML to canvas 등을 통해 Plant의 상태 시각화 신규 개발 진행",
+      "데이터 시각화 : Chart, Logic gate XML to HTML Canvas 등을 통해 Plant의 상태 시각화 신규 개발 진행",
       "기능 구현 : 기존에 퍼블리싱 된 화면중 기능 구현이 안되어 있던 부분 개발 진행",
       "리팩토링 : 불필요한 상태변경, API 요청, 잘못된 구조 개선 등으로 성능 일부 개선 및 공통화 진행",
-      "배포 : 고객사 현장에서 Nginx설정 후 배포 진행"
+      "배포 : 고객사 현장에서 NGINX설정 후 배포 진행"
     ],
     "projects": [
       {
@@ -36,7 +36,7 @@
         "environment": [
           "라이브러리 : React",
           "상태관리 라이브러리 : Redux",
-          "사용 언어 : HTML, CSS, Javascript",
+          "사용 언어 : HTML, CSS, JavaScript",
           "번들러 : CRA(Webpack, babel)"
         ],
         "descList": [
@@ -46,14 +46,15 @@
           {
             "title": "Web Socket을 이용해서 서버와 통신",
             "explanation": [
-              "실시간 데이터 처리를 조금 더 효율적으로 개선하고자 Web Socket으로 변경"
+              "실시간 데이터 처리를 조금 더 효율적으로 개선하고자 Web Socket으로 변경",
+              "적은 주기로 polling중으로 overhead 발생 우려"
             ]
           },
           {
             "title": "데이터 시각화",
             "explanation": [
-              "Window 프로그램에서 작성한 XML를 HTML로 변환해서 표시",
-              "Highcharts를 이용해서 시계열 데이터 시각화 및 데이터 라벨링 기능 구현"
+              "Window 프로그램에서 작성한 Logic gate, 플랜트 상태관련 XML 데이터를 HTML Canvas로 변환해서 표시",
+              "Highcharts를 이용해서 플랜트 상태 트랜드 시계열 데이터 시각화 및 데이터 라벨링 기능 구현"
             ]
           },
           {
@@ -65,7 +66,7 @@
             ]
           },
           {
-            "title": "Nginx 셋팅 및 배포",
+            "title": "NGINX 셋팅 및 배포",
             "explanation": ["고객사 폐쇄망에 있는 PC에 배포 작업"]
           }
         ]
@@ -116,7 +117,7 @@
           },
           {
             "title": "데이터 시각화",
-            "explanation": ["Highcharts를 이용해서 시계열 데이터 시각화"]
+            "explanation": ["Highcharts를 이용해서 알람 시계열 데이터 시각화"]
           }
         ]
       }
@@ -129,7 +130,7 @@
     "startDate": "2022-06",
     "endDate": "2022-12",
     "position": "프론트엔드, 모바일 앱 개발자",
-    "skillList": ["Svelte", "Javascript", "HTML", "CSS", "Flutter", "Dart"],
+    "skillList": ["Svelte", "JavaScript", "HTML", "CSS", "Flutter", "Dart"],
     "linkList": [
       {
         "link": "https://www.bubdaelaw.com/",
@@ -149,7 +150,7 @@
         "position": "프론트엔드 개발자",
         "environment": [
           "프레임워크 : Svelte",
-          "사용 언어 : HTML, CSS, Javascript",
+          "사용 언어 : HTML, CSS, JavaScript",
           "번들러 : Vite"
         ],
         "descList": [
@@ -235,7 +236,7 @@
       "Kotlin",
       "Svelte",
       "Node",
-      "Javascript",
+      "JavaScript",
       "HTML",
       "CSS"
     ],
@@ -329,7 +330,7 @@
         "position": "프론트엔드 개발자",
         "environment": [
           "프레임워크 : Svelte",
-          "사용 언어 : HTML, CSS, Javascript",
+          "사용 언어 : HTML, CSS, JavaScript",
           "번들러 : Vite"
         ],
         "descList": [

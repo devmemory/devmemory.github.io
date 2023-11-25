@@ -9,11 +9,11 @@
     "skillList": [
       "React",
       "Redux",
-      "Javascript",
-      "Typescript",
+      "JavaScript",
+      "TypeScript",
       "HTML",
       "CSS",
-      "Nginx"
+      "NGINX"
     ],
     "linkList": [
       {
@@ -22,7 +22,7 @@
       }
     ],
     "summary": [
-      "Data visualization : Visualizing the status of a plant using charts, XML to canvas, etc.",
+      "Data visualization : Visualizing the status of a plant using charts, Logic gate XML to HTML Canvas, etc.",
       "Feature development : Developing features that were not implemented even though the view was developed.",
       "Refactoring : Eliminating unused status management, API calls, incorrect code structures, optimizing performance, and modularizing.",
       "Publishing : Deploying web pages on customers' PCs."
@@ -36,7 +36,7 @@
         "environment": [
           "View Libray : React",
           "State management : Redux",
-          "Languages : HTML, CSS, Javascript",
+          "Languages : HTML, CSS, JavaScript",
           "Bundler : CRA(Webpack, babel)"
         ],
         "descList": [
@@ -46,14 +46,15 @@
           {
             "title": "Connecting with server through REST API, WebSocket",
             "explanation": [
-              "Socket for a real time data connection and better performance"
+              "Socket for a real time data connection and better performance",
+              "From polling to WebSocket to reduce overhead"
             ]
           },
           {
             "title": "Data visualization",
             "explanation": [
-              "Displaying XML data which is made in Desktop app to HTML",
-              "Displaying time series data by using Highcharts.",
+              "Displaying XML logic gate, plant status data which is made in Desktop app to HTML Canvas",
+              "Displaying time series plant status trend data by using Highcharts",
               "Interacting chart data with labeling educated data from Algorithm server"
             ]
           },
@@ -65,7 +66,7 @@
             ]
           },
           {
-            "title": "Nginx setting and publishing",
+            "title": "NGINX setting and publishing",
             "explanation": [
               "Publishing web app on closed network environment in pc of customers"
             ]
@@ -81,7 +82,7 @@
         "environment": [
           "View Libray : React",
           "State management : N/A",
-          "Languages : HTML, CSS, Typescript",
+          "Languages : HTML, CSS, TypeScript",
           "Bundler : Vite"
         ],
         "descList": [
@@ -104,7 +105,7 @@
         "position": "Frontend developer",
         "environment": [
           "View Libray : React",
-          "Languages : HTML, CSS, Typescript",
+          "Languages : HTML, CSS, TypeScript",
           "State management : Zustand",
           "Bundler : Vite"
         ],
@@ -119,7 +120,7 @@
           {
             "title": "Data visualization",
             "explanation": [
-              "Displaying time series data by using Highcharts. Alarm trend graph"
+              "Displaying time series alarm data by using Highcharts. Alarm trend graph"
             ]
           }
         ]
@@ -133,7 +134,7 @@
     "startDate": "2022-06",
     "endDate": "2022-12",
     "position": "Frontend and mobile app developer",
-    "skillList": ["Svelte", "Javascript", "HTML", "CSS", "Flutter", "Dart"],
+    "skillList": ["Svelte", "JavaScript", "HTML", "CSS", "Flutter", "Dart"],
     "linkList": [
       {
         "link": "https://www.bubdaelaw.com/",
@@ -153,7 +154,7 @@
         "position": "Frontend developer",
         "environment": [
           "Framework : Svelte",
-          "Languages : HTML, CSS, Javascript",
+          "Languages : HTML, CSS, JavaScript",
           "Bundler : Vite"
         ],
         "descList": [
@@ -241,7 +242,7 @@
       "Kotlin",
       "Svelte",
       "Node",
-      "Javascript",
+      "JavaScript",
       "HTML",
       "CSS"
     ],
@@ -335,7 +336,7 @@
         "position": "Frontend developer",
         "environment": [
           "Framework : Svelte",
-          "Languages : HTML, CSS, Javascript",
+          "Languages : HTML, CSS, JavaScript",
           "Bundler : Vite"
         ],
         "descList": [
