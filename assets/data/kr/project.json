@@ -16,7 +16,7 @@
     ]
   },
   {
-    "title": "웹 라이브러리 배포",
+    "title": "JS 라이브러리 배포",
     "link": "https://www.npmjs.com/package/userevent-tracker",
     "bg": "/assets/img/project/npm.jpeg",
     "summary": "사용자 이벤트 트래킹 라이브러리",

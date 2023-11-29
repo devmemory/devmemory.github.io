@@ -20,6 +20,9 @@
 3. https://devmemory.github.io/#/portfolio
   - This page is my cv. You can check if you want to hire me or no
 
+4. https://devmemory.github.io/#/editor
+  - This page is code editor like jsfiddle, condesandbox, etc
+
 ### React project folder structure
 #### public
 - assets : jsonData, font, icon, img
@@ -35,9 +38,11 @@
 - utils
 
 ### library
+- @babel/standalone : to conver react code to js
 - @react-pdf/renderer : to generate pdf
 - @react-three/fiber : three wrapper
 - axios : to get date from specific url
 - file-saver : to save pdf
+- prismjs : to highlight code editor
 - three : 3d renderer
 - zustand : state management
