@@ -3,6 +3,10 @@
   "name": "김동화",
   "email": "devmemorydh@gmail.com",
   "location": "충남 내포신도시(홍성)",
+  "latLng": {
+    "lng": 126.674669000951,
+    "lat": 36.6533998108206
+  },
   "status": "현재 구직중 입니다",
   "about": [
     {

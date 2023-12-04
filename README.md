@@ -13,6 +13,7 @@
   - Main is 3d earth test with three js
   - You can search country. Then it will move to that country
   - You can set departure, transfer, destination. Then it'll move when destination is set
+  - You can check the map location through leaflet
 
 2. https://devmemory.github.io/#/question
   - This page is to check if our goal is matched or no. Or just routing to other page
@@ -43,6 +44,7 @@
 - @react-three/fiber : three wrapper
 - axios : to get date from specific url
 - file-saver : to save pdf
+- leaflet : map library
 - prismjs : to highlight code editor
 - three : 3d renderer
 - zustand : state management
