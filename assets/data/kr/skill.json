@@ -43,6 +43,11 @@
         "title": "Flutter",
         "desc": "개발자 첫 시작을 Flutter로 해서, Provider를 사용해서 MVVM 패턴으로 개발을 해왔고, 개인앱, 라이브러리를 배포해본 경험이 있습니다.",
         "link": "https://pub.dev/packages/kakaomap_webview"
+      },
+      {
+        "img": "/assets/img/skills/bundler.png",
+        "title": "Bundler",
+        "desc": "번들 사이즈 개선 및 필요한 옵션들을 변경하기 위해 사용을 해봤습니다. 최근에 Babel에서 ESBuild로 마이그레이션을 진행해봤고 생각보다 만족스러운 결과를 얻어서 Vite대신 사용할 여지도 있을거 같습니다."
       }
     ]
   },
@@ -50,9 +55,9 @@
     "title": "Knowledgeable",
     "list": [
       {
-        "img": "/assets/img/skills/bundler.png",
-        "title": "Bundler",
-        "desc": "번들 사이즈 개선 및 필요한 옵션들을 변경하기 위해 사용을 해봤는데, 아직 많은 부분을 튜닝할 기회는 없었습니다. 최근에는 빠른 번들링 속도로 Vite를 사용하고 있습니다."
+        "img": "/assets/img/skills/jest.svg",
+        "title": "Jest",
+        "desc": "최근에 과제전형을 진행하면서 한번 연습해봤는데, 테스트 케이스를 작성하면서 놓쳤던 부분을 찾을 수 있어서 중요성을 다시한번 알게되었고, 앞으로 사용해 나갈 예정입니다."
       },
       {
         "img": "/assets/img/skills/node.svg",
@@ -80,14 +85,14 @@
     "title": "ETC",
     "list": [
       {
-        "img": "/assets/img/skills/firebase.svg",
-        "title": "Firebase",
-        "desc": "모바일 개발자로 취직하기전에, 포트폴리오로 게시판 형태로 만들어서 플러터와 연동해본 경험이 있습니다."
+        "img": "/assets/img/skills/nginx.svg",
+        "title": "NGINX",
+        "desc": "build한 리액트 웹 테스트, 현장에 직접 배포를 하는 경우가 있어서, 필요한 셋팅들을 적용해서 배포해본적이 있습니다."
       },
       {
-        "img": "/assets/img/skills/sqlite.svg",
-        "title": "SQLite",
-        "desc": "모바일 앱을 개발할 때 사용해왔고, 노드에서 간단한 테스트 서버를 만들고 데이터를 저장할 때 사용해봤습니다."
+        "img": "/assets/img/skills/docker.svg",
+        "title": "Docker",
+        "desc": "Jest를 이용해 테스트한 React 앱을 Docker와 NGINX를 통해 로컬 환경에서 테스트를 진행 해봤습니다."
       },
       {
         "img": "/assets/img/skills/webrtc.svg",
@@ -102,9 +107,14 @@
         "link": "/"
       },
       {
-        "img": "/assets/img/skills/nginx.svg",
-        "title": "NGINX",
-        "desc": "build한 리액트 웹 테스트, 현장에 직접 배포를 하는 경우가 있어서, 필요한 셋팅들을 적용해서 배포해본적이 있습니다."
+        "img": "/assets/img/skills/firebase.svg",
+        "title": "Firebase",
+        "desc": "모바일 개발자로 취직하기전에, 포트폴리오로 게시판 형태로 만들어서 플러터와 연동해본 경험이 있습니다."
+      },
+      {
+        "img": "/assets/img/skills/sqlite.svg",
+        "title": "SQLite",
+        "desc": "모바일 앱을 개발할 때 사용해왔고, 노드에서 간단한 테스트 서버를 만들고 데이터를 저장할 때 사용해봤습니다."
       }
     ]
   }

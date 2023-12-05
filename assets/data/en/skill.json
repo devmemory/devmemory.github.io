@@ -43,6 +43,11 @@
         "title": "Flutter",
         "desc": "I started my developer career as a Flutter developer. I've been developing with MVVM structure with that. And I developed my personal app and published package which is used more than 100 apps.",
         "link": "https://pub.dev/packages/kakaomap_webview"
+      },
+      {
+        "img": "/assets/img/skills/bundler.png",
+        "title": "Bundler",
+        "desc": "I use this to build my react app. I tried basic settings and put some features for some libraries. And since ESBuild is available with Webpack, I replaced Babel to ESBuild. And it was more effective."
       }
     ]
   },
@@ -50,9 +55,9 @@
     "title": "Knowledgeable",
     "list": [
       {
-        "img": "/assets/img/skills/bundler.png",
-        "title": "Bundler",
-        "desc": "I use this to build my react app. I just tried basic settings and put some features for some libraries. But nowadays, I prefer to use Vite because of bundling speed. I can check the result faster."
+        "img": "/assets/img/skills/jest.svg",
+        "title": "Jest",
+        "desc": "I tried it to develop myself. And I realized how test code is important by testing my scenario. So I started implementing this."
       },
       {
         "img": "/assets/img/skills/node.svg",
@@ -80,14 +85,14 @@
     "title": "ETC",
     "list": [
       {
-        "img": "/assets/img/skills/firebase.svg",
-        "title": "Firebase",
-        "desc": "When I made a portfolio for my first career as a developer, I made a simple community app with Flutter and Firebase."
+        "img": "/assets/img/skills/nginx.svg",
+        "title": "NGINX",
+        "desc": "I have an experiene of using it when I needed to publish react app in customer's pc. I applied features such as entry point(build folder), proxy, timeout, etc."
       },
       {
-        "img": "/assets/img/skills/sqlite.svg",
-        "title": "SQLite",
-        "desc": "I had used when I developed a mobile app or simple node server. I think I need to study bigger DB for my entire career."
+        "img": "/assets/img/skills/docker.svg",
+        "title": "Docker",
+        "desc": "I tried making a Docker image with NGINX and React bundle to understand product environment. And I could realize that is more effective with testing library such as Jest."
       },
       {
         "img": "/assets/img/skills/webrtc.svg",
@@ -102,9 +107,14 @@
         "link": "/"
       },
       {
-        "img": "/assets/img/skills/nginx.svg",
-        "title": "NGINX",
-        "desc": "I have an experiene of using it when I needed to publish react app in customer's pc. I applied features such as entry point(build folder), proxy, timeout, etc."
+        "img": "/assets/img/skills/firebase.svg",
+        "title": "Firebase",
+        "desc": "When I made a portfolio for my first career as a developer, I made a simple community app with Flutter and Firebase."
+      },
+      {
+        "img": "/assets/img/skills/sqlite.svg",
+        "title": "SQLite",
+        "desc": "I had used when I developed a mobile app or simple node server. I think I need to study bigger DB for my entire career."
       }
     ]
   }
