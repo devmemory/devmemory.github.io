@@ -3,8 +3,8 @@
 
 ### Develop environment
 - View library : React
-- Languages : Typescript, HTML, CSS
-- State management : Zustand
+- Languages : TypeScript, HTML, CSS
+- State management : Zustand, React Query
 - Bundler : Vite
 
 ### routes
@@ -39,12 +39,13 @@
 - utils
 
 ### library
-- @babel/standalone : to conver react code to js
+- @babel/standalone : to convert react code to js
 - @react-pdf/renderer : to generate pdf
 - @react-three/fiber : three wrapper
-- axios : to get date from specific url
+- axios : to get data from specific url
 - file-saver : to save pdf
 - leaflet : map library
 - prismjs : to highlight code editor
+- react-query : to optimize API with caching and state management
 - three : 3d renderer
 - zustand : state management
