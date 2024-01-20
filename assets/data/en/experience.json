@@ -22,10 +22,11 @@
       }
     ],
     "summary": [
-      "Data visualization : Visualizing the status of a plant using charts, Logic gate XML to HTML Canvas, etc.",
-      "Feature development : Developing features that were not implemented even though the view was developed.",
-      "Refactoring : Eliminating unused status management, API calls, incorrect code structures, optimizing performance, and modularizing.",
-      "Publishing : Deploying web pages on customers' PCs."
+      "Data visualization (Charts, Logic gates)",
+      "Real-time data handling with WebSocket",
+      "Generating documents with HTML, TypeScript(docx)",
+      "Deploying to customers' PCs",
+      "New page development and maintenance"
     ],
     "projects": [
       {
@@ -142,9 +143,10 @@
       }
     ],
     "summary": [
-      "Main feature development : Developing user management, legal services such as diagnostics and writing documentation, etc.",
-      "Sub feature development : Developing user data tracking, WebRTC integration, connecting third-party libraries, etc.",
-      "Developing both the web and app simultaneously."
+      "Developing user event tracking",
+      "Implementing video calls with WebRTC",
+      "Integrating 3rd-party libraries, such as payment modules, identity verification, and social login",
+      "New page development and maintenance"
     ],
     "projects": [
       {
@@ -257,11 +259,14 @@
       }
     ],
     "summary": [
-      "Performance optimization : Optimizing widget structure, caching, video player, and state management.",
-      "Map package development : Developing and applying the Kakaomap package.",
-      "Main feature development : Developing new travel pages, features, and connecting third-party libraries.",
-      "Scraping : Scraping museum data from a website.",
-      "Studying and developing the front-end web page for hotel booking."
+      "Developing, applying, and publishing the Kakaomap library",
+      "Integrating 3rd-party libraries, such as payment modules and maps",
+      "Modifying and implementing view libraries",
+      "Performance optimization",
+      "Deploying to Google Play Store and Apple App Store",
+      "Scraping museum data and automatically creating Excel sheets",
+      "Developing a video range modification feature",
+      "New page development and maintenance"
     ],
     "projects": [
       {
