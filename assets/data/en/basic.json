@@ -11,44 +11,26 @@
   "about": [
     {
       "gap": false,
-      "text": "I'm a Front end developer who have been developing React, Svelte, Flutter, and a bit of Node."
-    },
-    {
-      "gap": true,
-      "text": "I'm currently looking for a company where I can have a better opportunity to develop interesting projects."
-    },
-    { "gap": true, "text": "These are my strength : " },
-    {
-      "gap": true,
-      "text": "1. I developed and published two open source libaries.",
-      "linkList": [
-        "https://pub.dev/packages/kakaomap_webview",
-        "https://www.npmjs.com/package/userevent-tracker"
-      ]
-    },
-    {
-      "gap": true,
-      "text": "2. I've been managing my own development blog. And I'll never close it. I want to share my experiences and memorize what I developed.",
-      "linkList": ["https://devmemory.tistory.com/"]
-    },
-    {
-      "enter": true,
-      "text": "3. I have worked at two startup companies, where I gained experience in all aspects of project development, from initial setup to final product. My experience will be a valuable asset in the project-building process."
+      "text": "Frontend Developer with 2.5 years of experience creating and maintaining web frontend and hybrid mobile application. Proficient in JavaScript, TypeScript, HTML, CSS, and modern frameworks like React, Svelte, Flutter. Passionate about continuous learning and seeking challenging projects to further enhance skills and contribute to innovative solutions."
     }
   ],
   "etcInfoList": [
     {
       "title": "Education",
       "name": "Kongju National University",
-      "date": "2010-03 - 2017-02 (Militrary 2 years)",
-      "summary": "Bachelor's degree of Electrical and Electronics engineering",
+      "date": "2010-03 - 2017-02",
+      "summary": [
+        "Bachelor's degree",
+        "Electrical and Electronics engineering",
+        "3.5/4.5 GPA"
+      ],
       "link": "https://english.kongju.ac.kr/eng/14038/subview.do"
     },
     {
       "title": "English test score",
-      "name": "OPIC (Oral Proficiency Interview, computer)",
+      "name": "OPIC",
       "date": "2018-10",
-      "summary": "Intermediate High",
+      "summary": ["Intermediate High"],
       "link": "/assets/img/etc/opic.jpg"
     }
   ]

@@ -22,11 +22,10 @@
       }
     ],
     "summary": [
-      "Data visualization (Charts, Logic gates)",
-      "Real-time data handling with WebSocket",
-      "Generating documents with HTML, TypeScript(docx)",
-      "Deploying to customers' PCs",
-      "New page development and maintenance"
+      "Developed web frontend including plant fault diagnosis, logic gate.",
+      "Implemented WebSocket for real-time data, enhancing the user experience by visualizing it through charts and D3.",
+      "Established and implemented a comprehensive code guideline, significantly improving code maintenance and readability.",
+      "Successfully delivered an outsourcing project ahead of the deadline, showcasing efficiency and meeting client expectations."
     ],
     "projects": [
       {
@@ -143,10 +142,9 @@
       }
     ],
     "summary": [
-      "Developing user event tracking",
-      "Implementing video calls with WebRTC",
-      "Integrating 3rd-party libraries, such as payment modules, identity verification, and social login",
-      "New page development and maintenance"
+      "Development of the entire frontend process, including a pay module for the billing system, legal care system, and other critical components.",
+      "Successfully deployed a project within a 6-month timeframe, supporting an investment meeting and aligning with business objectives.",
+      "Implemented peer-to-peer video chatting functionality to facilitate communication between lawyers and customers."
     ],
     "projects": [
       {
@@ -259,14 +257,11 @@
       }
     ],
     "summary": [
-      "Developing, applying, and publishing the Kakaomap library",
-      "Integrating 3rd-party libraries, such as payment modules and maps",
-      "Modifying and implementing view libraries",
-      "Performance optimization",
-      "Deploying to Google Play Store and Apple App Store",
-      "Scraping museum data and automatically creating Excel sheets",
-      "Developing a video range modification feature",
-      "New page development and maintenance"
+      "Optimized performance by 10 frames, implementing a more efficient structure for widgets and video state logic.",
+      "Developed a mobile app and web frontend, which included the implementation of a pay module and a hotel booking, managing page.",
+      "Developed, integrated, and achieved widespread adoption of the Kakaomap open source library, with over 100 apps utilizing its enhanced mapping functionalities.",
+      "Successfully scraped data and image from over 100 museums, contributing to a comprehensive database.",
+      "Migrating to null safety and refactoring code to enhance performance and readability."
     ],
     "projects": [
       {

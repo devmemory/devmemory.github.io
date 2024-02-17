@@ -3,57 +3,44 @@
     "title": "Web portfolio page",
     "link": "https://devmemory.github.io/",
     "bg": "/assets/img/intro/developer.png",
-    "summary": "Resume, Three.js test, Q & A page",
     "startDate": "2023-09-04",
     "endDate": "2023-10-25",
     "desc": [
-      "Langauge : TypeScript, HTML, CSS",
-      "Data : json files",
-      "1. Three.js with converting latitude langitude to x, y, z and opposite",
-      "2. My personal localization with state management library and json",
-      "3. Generating pdf automatically from HTML(Resume)",
-      "4. Question and answer with logics"
+      "Designed and developed a personalized webpage to showcase my skills, experiences, and projects.",
+      "Explored and experimented with innovative features to demonstrate my interest in continuous learning and creativity."
     ]
   },
   {
-    "title": "Web open source library",
+    "title": "JavaScript open source library",
     "link": "https://www.npmjs.com/package/userevent-tracker",
     "bg": "/assets/img/project/npm.jpeg",
-    "summary": "User event traking library",
     "startDate": "2023-06-04",
     "endDate": "2023-06-13",
     "desc": [
-      "The reason why I developed this : To track user's info",
-      "1. Tracking staying time by checking url change event.",
-      "2. Tracking click date by listening click event and get data by className or tag.",
-      "3. It's publushed UMD by using webpack."
+      "Conceptualized and developed a user event tracking system using TypeScript for enhanced analytics."
     ]
   },
   {
     "title": "Flutter open source package",
     "link": "https://pub.dev/packages/kakaomap_webview",
     "bg": "/assets/img/project/pub_dev.jpeg",
-    "summary": "Flutter Kakaomap webview",
     "startDate": "2022-06-05",
     "endDate": "2023-05-03",
     "desc": [
-      "The reason why I developed this : There was no Kakaomap package",
-      "1. Making data url with HTML, JavaScript code.",
-      "2. Setting data url in webview.",
-      "3. Adding more features based on official documents."
+      "Developed and successfully deployed the Kakaomap library, a powerful solution for integrating Kakao maps into Flutter applications.",
+      "Garnered widespread adoption, with over 100 apps utilizing the library as their preferred method for implementing Kakao maps."
     ]
   },
   {
     "title": "Development blog",
     "link": "https://devmemory.tistory.com/",
     "bg": "/assets/img/project/blog.jpeg",
-    "summary": "To Share and review development history",
     "startDate": "2020-08-03",
     "endDate": "Now",
     "desc": [
-      "Beginning : Basic Flutter stuffs and sharing what I faced and how I overcame",
-      "Middle : Starting to develop web and sharing my experiences.",
-      "Now : Sharing my development which I wanted to develop."
+      "Documented and shared my development journey, providing insights into various projects, technologies, and challenges.",
+      "Attracted a consistent audience with around 100 daily users finding valuable content on the blog.",
+      "Achieved a significant milestone with over 100,000 total visitors, reflecting the blog's impact within the developer community."
     ]
   }
 ]

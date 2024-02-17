@@ -23,7 +23,7 @@
       "linkList": ["https://devmemory.tistory.com/"]
     },
     {
-      "gap": true,
+      "gap": false,
       "text": "3. 스타트업 근무로 초기 셋업 부터 빌드까지 진행해봤고, MVP를 만들어서 투자자 미팅까지 개발을 완료한 경험이 있습니다."
     }
   ],
@@ -32,14 +32,14 @@
       "title": "학력",
       "name": "공주대학교",
       "date": "2010-03 - 2017-02 (병역 2012-2014)",
-      "summary": "전기전자제어계측 전공 학사",
+      "summary": ["전기전자제어계측 전공 학사", "3.5/4.5 학점"],
       "link": "https://english.kongju.ac.kr/eng/14038/subview.do"
     },
     {
       "title": "어학점수",
-      "name": "OPIC (Oral Proficiency Interview, computer)",
+      "name": "OPIC",
       "date": "2018-10",
-      "summary": "Intermediate High",
+      "summary": ["Intermediate High"],
       "link": "/assets/img/etc/opic.jpg"
     }
   ]
