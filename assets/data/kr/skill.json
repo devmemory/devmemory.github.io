@@ -5,7 +5,7 @@
       {
         "img": "/assets/img/skills/html.svg",
         "title": "HTML",
-        "desc": "모든 태그를 사용해보지는 않았지만, 화면 구현에 필요한 태그를 선택해 가면서 현업에서 퍼블리싱도 진행하고 있습니다. HTML5에 새로 나온 canvas, video, audio, semantic 태그 등도 사용하고 있습니다."
+        "desc": "모든 태그를 사용해보지는 않았지만, 화면 구현에 필요한 태그를 선택해 가면서 현업에서 퍼블리싱도 진행하고 있습니다. 접근성을 위해 Semantic tag를 사용합니다."
       },
       {
         "img": "/assets/img/skills/css.svg",
@@ -16,7 +16,7 @@
       {
         "img": "/assets/img/skills/js.svg",
         "title": "JavaScript",
-        "desc": "웹 개발을 시작하고 나서 주로 사용해온 언어로, Dart와 유사한점이 많아서 러닝커브는 상대적으로 낮았던거 같습니다. JS 딥다이브를 읽으면서 부족한 부분들을 채워나가고 있고, 현재는 타입추론 및 컴파일 타임에 에러를 잡기 위해 TypeScript를 주로 사용하고 있습니다."
+        "desc": "웹 개발을 시작하고 나서 주로 사용해온 언어로, Dart와 유사한점이 많아서 러닝커브는 상대적으로 낮았던거 같습니다. JS 딥다이브를 읽으면서 부족한 부분들을 채워나가고 있고, 현재는 타입추론 및 런타임에 발생할 수 있는 문제를 해결하기 위해 TypeScript를 주로 사용하고 있습니다."
       },
       {
         "img": "/assets/img/skills/ts.svg",
@@ -26,7 +26,7 @@
       {
         "img": "/assets/img/skills/react.svg",
         "title": "React",
-        "desc": "처음에 class 컴포넌트로 학습을 시작했는데, Flutter와 유사점으로 초반 learning curve는 적었지만, hooks로 넘어오면서 조금 난해했지만 스터디를 통해 잘 사용하고 있고, 더 효율적으로 개발하고자 view와 logic을 customhooks로 분리해서 작업을 하고 있습니다."
+        "desc": "class, functional 컴포넌트 두개 다 활용해본 경험이 있고, JSX구조, 상태관리등에 대한 이해를 하고 개발하고 있습니다. 불필요한 Memorization은 하지 않습니다."
       },
       {
         "img": "/assets/img/skills/redux.svg",
@@ -36,18 +36,18 @@
       {
         "img": "/assets/img/skills/svelte.svg",
         "title": "Svelte",
-        "desc": "개발자로 첫 회사에서 모바일 개발을 하다가 웹 페이지가 필요하게 되어 스터디 하게 됐는데, 러닝커브도 적었고, 조심하지 않으면 위험할수도 있는 양방향 바인딩과 virtual dom을 사용하지 않는 환경, 그리고 reactive한 상태변경 방식이 너무 맘에 들었습니다만 일자리가 없어서 메인으로 개발하고 있지 않습니다."
+        "desc": "양방향 바인딩과 virtual dom을 사용하지 않는 환경, 그리고 reactive한 상태변경 방식, 낮은 러닝커브로 재밌게 개발했으나 일자리가 없어서 메인으로 개발하고 있지 않습니다."
       },
       {
         "img": "/assets/img/skills/flutter.svg",
         "title": "Flutter",
-        "desc": "개발자 첫 시작을 Flutter로 해서, Provider를 사용해서 MVVM 패턴으로 개발을 해왔고, 개인앱, 라이브러리를 배포해본 경험이 있습니다.",
+        "desc": "개발자 첫 시작을 Flutter로 해서, Provider를 이용한 MVVM 패턴으로 개발을 해왔고, 개인앱, 오픈소스 라이브러리를 배포해본 경험이 있습니다.",
         "link": "https://pub.dev/packages/kakaomap_webview"
       },
       {
         "img": "/assets/img/skills/bundler.png",
         "title": "Bundler",
-        "desc": "번들 사이즈 개선 및 필요한 옵션들을 변경하기 위해 사용을 해봤습니다. 최근에 Babel에서 ESBuild로 마이그레이션을 진행해봤고 생각보다 만족스러운 결과를 얻어서 Vite대신 사용할 여지도 있을거 같습니다."
+        "desc": "번들 사이즈 개선 및 필요한 옵션들을 변경하기 위해 사용하고 있습니다. 최근에 Babel에서 esbuild로 마이그레이션을 진행해봤고 생각보다 만족스러운 결과를 얻어서 Vite대신 사용할 여지도 있을거 같습니다."
       }
     ]
   },
@@ -92,7 +92,7 @@
       {
         "img": "/assets/img/skills/docker.svg",
         "title": "Docker",
-        "desc": "Jest를 이용해 테스트한 React 앱을 Docker와 NGINX를 통해 로컬 환경에서 테스트를 진행 해봤습니다."
+        "desc": "개발한 React 웹 번들링 및 NGINX를 이용해서 이미지를 만들고 개인 Ubuntu pc에서 사용중입니다."
       },
       {
         "img": "/assets/img/skills/webrtc.svg",
@@ -103,7 +103,7 @@
       {
         "img": "/assets/img/skills/three.svg",
         "title": "Three.js",
-        "desc": "현재 관심있는 기술중 하나로, 3d 개발에 관심이 생겨서 WebGL, WebGPU에 대해 알아봤고, 러닝커브가 적고, 베타버전이 아니어서 선택을 하게 됐고 간단한 예제로 구현해본 경험이 있습니다.",
+        "desc": "현재 관심있는 기술중 하나로, 3d 개발에 관심이 생겨서 WebGL, WebGPU에 대해 알아봤고, 베타버전이 아니어서 선택 후 간단한 예제로 구현해본 경험이 있습니다.",
         "link": "/"
       },
       {

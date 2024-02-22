@@ -5,49 +5,82 @@
       {
         "img": "/assets/img/skills/html.svg",
         "title": "HTML",
-        "desc": "I didn't try using all tags. But I can choose what I need when I develop UI. And I've been using new HTML tags since HTML5. Such as canvas, video, audio, semantic tags."
+        "desc": [
+          "Proficient in writing semantic HTML for accessibility and SEO optimization.",
+          "Familiarity with modern HTML5 tags for structuring content effectively."
+        ]
       },
       {
         "img": "/assets/img/skills/css.svg",
         "title": "CSS",
-        "desc": "I can develop responsive UI which designers made and simple animations. This link is where I usually check to improve my skill.",
+        "desc": [
+          "Advanced knowledge of CSS3, including Flexbox and Grid for responsive and fluid layouts.",
+          "Proficient in CSS animations for creating engaging and visually appealing user interfaces.",
+          "The link is what I've noted."
+        ],
         "link": "https://dev.to/afif/31-single-div-illustration-the-divtober-collection-aik"
       },
       {
         "img": "/assets/img/skills/js.svg",
         "title": "JavaScript",
-        "desc": "It's the language which I've been using the most since I started developing web. Because of simularity with Dart, I could learn it fast. I'm trying to fill what is lacking by reading deep dive book. Nowadays, I've been using TypeScript to check type and error in compile time."
+        "desc": [
+          "Strong command of JavaScript (ES6+), leveraging modern features.",
+          "Skillful in asynchronous programming, Promises, and async/await for efficient data handling."
+        ]
       },
       {
         "img": "/assets/img/skills/ts.svg",
         "title": "TypeScript",
-        "desc": "JavaScript is hard to check the type of value before debugging unlike Dart or Kotlin, Java. etc. So I started using typescript to get rid of errors in compile time."
+        "desc": [
+          "Proficient in TypeScript for static typing, enhancing code quality and developer collaboration.",
+          "Utilized TypeScript interfaces and types for clear and maintainable code."
+        ]
       },
       {
         "img": "/assets/img/skills/react.svg",
         "title": "React",
-        "desc": "When I started studying, I used class component. It was easy to learn because of similarity with Flutter. But I needed to study harder since it moved to functional component. Nowadays, I think I'm used to with that. And separating logic and view with customhooks seemed good."
+        "desc": [
+          "Proficient in creating dynamic and interactive user interfaces using React.",
+          "In-depth understanding of JSX syntax and its translation to React.createElement(tag, attrs, children).",
+          "Experience with component-based architecture, emphasizing reusability and maintainability.",
+          "Expertise in state management with React Hooks and Flux pattern for larger-scale applications.",
+          "Familiarity with React Router for efficient navigation in single-page applications."
+        ]
       },
       {
         "img": "/assets/img/skills/redux.svg",
         "title": "Redux",
-        "desc": "I started using global state management to avoid of props drilling. And I'm trying not to use much as long as it can be complexed more. Nowadays, I'm using Zustand. Because it has a same Flux structure and can get rid of boiler plate. And also, the bundle size is smaller."
+        "desc": [
+          "Implemented Redux for efficient state management in complex applications.",
+          "Proficient in actions, reducers, and middleware to handle application state."
+        ]
       },
       {
         "img": "/assets/img/skills/svelte.svg",
         "title": "Svelte",
-        "desc": "In my first company, our main product was a mobile app. And we needed a web site for products. So our team started studying it. Actually, I like the concept of Svelte. Such as two way binding, without virtual dom, reactive state management, etc. Just there weren't many companies where use that."
+        "desc": [
+          "Experience with Svelte, a modern JavaScript framework for building lightweight and performant web applications.",
+          "Utilized Svelte's reactive framework for efficient DOM manipulation."
+        ]
       },
       {
         "img": "/assets/img/skills/flutter.svg",
         "title": "Flutter",
-        "desc": "I started my developer career as a Flutter developer. I've been developing with MVVM structure with that. And I developed my personal app and published package which is used more than 100 apps.",
+        "desc": [
+          "Proficient in Flutter for cross-platform mobile app development.",
+          "Created engaging and responsive user interfaces with Flutter widgets.",
+          "Created open source library which is used over 100 apps."
+        ],
         "link": "https://pub.dev/packages/kakaomap_webview"
       },
       {
         "img": "/assets/img/skills/bundler.png",
         "title": "Bundler",
-        "desc": "I use this to build my react app. I tried basic settings and put some features for some libraries. And since ESBuild is available with Webpack, I replaced Babel to ESBuild. And it was more effective."
+        "desc": [
+          "Webpack: Utilized Webpack for bundling and managing assets, optimizing the performance of web applications.",
+          "Babel: Integrated Babel for transpiling modern JavaScript/TypeScript code to ensure compatibility across browsers.",
+          "esbuild: Familiarity with esbuild for fast and efficient bundling and minification of code."
+        ]
       }
     ]
   },
@@ -57,27 +90,40 @@
       {
         "img": "/assets/img/skills/jest.svg",
         "title": "Jest",
-        "desc": "I tried it to develop myself. And I realized how test code is important by testing my scenario. So I started implementing this."
+        "desc": [
+          "Implemented unit testing with Jest and React Testing Library for code reliability."
+        ]
       },
       {
         "img": "/assets/img/skills/node.svg",
         "title": "Node",
-        "desc": "I'm using it for a simple test server with MVC structure. Since my back end knowledge is not enough, I've been studying more about DB and OS. My goal is to be a full stack developer with that."
+        "desc": [
+          "Familiar with Node.js for server-side JavaScript development.",
+          "Exposure to building simple REST APIs and various features using Express."
+        ]
       },
       {
         "img": "/assets/img/skills/express.svg",
         "title": "Express",
-        "desc": "I use it to develope node easier. Especially, routing is the best part of using it. I'm considering Nest too."
+        "desc": [
+          "Basic understanding of Express framework for building web applications and APIs."
+        ]
       },
       {
         "img": "/assets/img/skills/mongodb.svg",
         "title": "MongoDB",
-        "desc": "I'm currently studying it. I already tried simple CRUD and etc. I'm willing to use this for my side project in the future."
+        "desc": [
+          "Familiarity with MongoDB for NoSQL database interactions.",
+          "Basic knowledge of CRUD operations and document-based data modeling."
+        ]
       },
       {
         "img": "/assets/img/skills/android.svg",
         "title": "Android",
-        "desc": "I developed Android before starting to develop Flutter. This basic was helpful when I developed Flutter. Especially, when I needed to use native features, I could do with Method channel and Flatform view with Kotlin."
+        "desc": [
+          "Exposure to Android development for mobile applications.",
+          "Familiar with method channel and platform view for Flutter."
+        ]
       }
     ]
   },
@@ -87,34 +133,49 @@
       {
         "img": "/assets/img/skills/nginx.svg",
         "title": "NGINX",
-        "desc": "I have an experiene of using it when I needed to publish react app in customer's pc. I applied features such as entry point(build folder), proxy, timeout, etc."
+        "desc": [
+          "Familiar with NGINX as a web server and reverse proxy.",
+          "Basic understanding of configuring NGINX for routing"
+        ]
       },
       {
         "img": "/assets/img/skills/docker.svg",
         "title": "Docker",
-        "desc": "I tried making a Docker image with NGINX and React bundle to understand product environment. And I could realize that is more effective with testing library such as Jest."
+        "desc": ["Exposure to Docker for containerization of applications."]
       },
       {
         "img": "/assets/img/skills/webrtc.svg",
         "title": "WebRTC",
-        "desc": "One of interesting skills. I could have developed Web, App, Signal server and made peer to peer video calling.",
+        "desc": [
+          "Familiarity with WebRTC for real-time communication in web applications.",
+          "Exposure to peer-to-peer connections and media streaming using WebRTC."
+        ],
         "link": "https://devmemory.tistory.com/107"
       },
       {
         "img": "/assets/img/skills/three.svg",
         "title": "Three.js",
-        "desc": "One of interesting skills. Because I was wondering how 3D is developed. So I looked for WebGL and WebGPU. And I chose Three.js. Because WebGPU is still not supported perfectly.",
+        "desc": [
+          "Basic understanding of Three.js for creating 3D graphics in web applications.",
+          "Exposure to building simple 3D scenes and animations."
+        ],
         "link": "/"
       },
       {
         "img": "/assets/img/skills/firebase.svg",
         "title": "Firebase",
-        "desc": "When I made a portfolio for my first career as a developer, I made a simple community app with Flutter and Firebase."
+        "desc": [
+          "Familiar with Firebase for building and deploying web and mobile applications.",
+          "Basic knowledge of Firebase Authentication and Storage, Messaging."
+        ]
       },
       {
         "img": "/assets/img/skills/sqlite.svg",
         "title": "SQLite",
-        "desc": "I had used when I developed a mobile app or simple node server. I think I need to study bigger DB for my entire career."
+        "desc": [
+          "Exposure to SQLite for lightweight relational database management.",
+          "Basic knowledge of SQL queries and database operations."
+        ]
       }
     ]
   }
