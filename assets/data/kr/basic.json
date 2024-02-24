@@ -10,21 +10,16 @@
   "status": "현재 구직중 입니다",
   "about": [
     {
-      "gap": true,
-      "text": "1. 오픈소스 라이브러리 개발 및 배포를 해본 경험이 있습니다",
-      "linkList": [
-        "https://pub.dev/packages/kakaomap_webview",
-        "https://www.npmjs.com/package/userevent-tracker"
-      ]
+      "gap": false,
+      "text": "저는 새로운 기술에 도전하는 것 그리고 그것을 기록하는 것을 좋아하는 프론트엔드 개발자입니다."
+    },
+    {
+      "gap": false,
+      "text": "제 개발자로서의 목표는 다양한 도메인과 개발 지식을 접하는 것 그리고 그 과정 중에 성공 케이스를 만드는 것이고, 현재 그 과정 중에 있습니다."
     },
     {
       "gap": true,
-      "text": "2. 개발 경험 등을 공유, 다시 찾아보기 위해 블로그를 꾸준히 운영해오고 있습니다",
-      "linkList": ["https://devmemory.tistory.com/"]
-    },
-    {
-      "gap": true,
-      "text": "3. 스타트업 근무로 초기 셋업 부터 빌드, 배포, 고도화까지 진행해본 경험이 있습니다."
+      "text": "현재 가장 원하는 경험은 평소에 관심 있던 분야, 새로운 개발 경험, 사용자가 많은 서비스를 개발해나가면서 성장하고 싶습니다."
     }
   ],
   "etcInfoList": [
