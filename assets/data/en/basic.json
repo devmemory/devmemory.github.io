@@ -10,7 +10,7 @@
   "status": "Currently Looking for a new opportunity",
   "about": [
     {
-      "gap": false,
+      "gap": true,
       "text": "Frontend Developer with 2.5 years of experience creating and maintaining web frontend and hybrid mobile application. Proficient in JavaScript, TypeScript, HTML, CSS, and modern frameworks like React, Svelte, Flutter. Passionate about continuous learning and seeking challenging projects to further enhance skills and contribute to innovative solutions."
     }
   ],
