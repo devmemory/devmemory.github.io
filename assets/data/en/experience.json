@@ -1,5 +1,56 @@
 [
   {
+    "company": "Luxrobo",
+    "bm": "Education service with coding, robot and Electronic design automation service",
+    "pointColor": "#06F0FF",
+    "startDate": "2024-03",
+    "endDate": "Now",
+    "position": "Frontend developer",
+    "skillList": ["Next", "TypeScript", "HTML", "CSS", "GraphQL", "Tailwind"],
+    "summary": [
+      "Developed web frontend, including products, users management pages and 3D electric circuit viewer.",
+      "Implemented GraphQL for auto-generating types.",
+      "Implemented a common Design System to facilitate faster and more accurate development.",
+      "Established and implemented comprehensive code guidelines, significantly improving code maintenance and readability."
+    ],
+    "projects": [
+      {
+        "name": "Modifactory web",
+        "summary": "Electronic design automation web",
+        "member": "4 (2 Backend developers, 2 Frontend developers)",
+        "position": "Frontend developer",
+        "environment": [
+          "Framework : Next.js",
+          "Languages : HTML, CSS, TypeScript",
+          "Styling libraries : NextUI, Tailwind CSS"
+        ],
+        "descList": [
+          {
+            "title": "Remaking web page from phase-0",
+            "explanation": [
+              "Renewal the page with new directing.",
+              "Refactoring outsourced project."
+            ]
+          },
+          {
+            "title": "Connecting with server through GraphQL",
+            "explanation": [
+              "Writing query, mutation.",
+              "Implementing type generator.",
+              "Customizing hooks for a better code quality."
+            ]
+          },
+          {
+            "title": "Implementing design system",
+            "explanation": [
+              "Implementing customized NextUI for a faster and correct development."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "company": "Gaon Platform",
     "bm": "Measurement, AI-based plant and life risk management and accident prevention, statistics service",
     "pointColor": "#2A2C42",

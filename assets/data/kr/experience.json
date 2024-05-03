@@ -1,5 +1,55 @@
 [
   {
+    "company": "Luxrobo",
+    "bm": "교육 로봇 및 코딩 교육, 회로 설계 서비스",
+    "pointColor": "#06F0FF",
+    "startDate": "2024-03",
+    "endDate": "Now",
+    "position": "프론트엔드 개발자",
+    "skillList": ["Next", "TypeScript", "HTML", "CSS", "GraphQL", "Tailwind"],
+    "summary": [
+      "서킷 프로젝트 관리, 유저 관리, 3D pcb viewer 등 개발 진행",
+      "GraphQL 타입 자동생성 적용",
+      "디자인 시스템 컴포넌트화"
+    ],
+    "projects": [
+      {
+        "name": "모디팩토리 웹",
+        "summary": "전자회로 디자인 자동화 서비스",
+        "member": "3 (1 백엔드 개발자, 1 프론트엔드 개발자, 1 스크래핑 개발자)",
+        "position": "프론트엔드 개발자",
+        "environment": [
+          "프레임워크 : Next.js",
+          "사용언어 : HTML, CSS, TypeScript",
+          "스타일링 라이브러리 : NextUI, Tailwind CSS"
+        ],
+        "descList": [
+          {
+            "title": "페이지 리뉴얼 및 재개발",
+            "explanation": [
+              "아웃소싱 코드 제거 및 리팩토링",
+              "새로 기획된 페이지 개발"
+            ]
+          },
+          {
+            "title": "GraphQL과 SSE를 통한 서버와 통신",
+            "explanation": [
+              "GraphQL type auto generation 추가",
+              "알람 등 단방향 통신으로 SSE 사용",
+              "AWS S3 파일 업로드 및 적용"
+            ]
+          },
+          {
+            "title": "디자인 시스템 적용",
+            "explanation": [
+              "공통 컴포넌트화를 통해 작업시간 단축"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "company": "Gaon Platform",
     "bm": "계측, AI를 이용한 플랜트 및 일상생활 위험 관리 및 사고 방지, 통계 서비스",
     "pointColor": "#2A2C42",
