@@ -6,8 +6,19 @@
     "startDate": "2024-03",
     "endDate": "Now",
     "position": "프론트엔드 개발자",
-    "skillList": ["Next", "TypeScript", "HTML", "CSS", "GraphQL", "Tailwind"],
+    "skillList": [
+      "React",
+      "Next",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "GraphQL",
+      "Tailwind",
+      "Dart",
+      "Kotlin"
+    ],
     "summary": [
+      "RTSP연결을 위해 클라이언트 WebRTC개발",
       "서킷 프로젝트 관리, 유저 관리, 3D pcb viewer 등 개발 진행",
       "GraphQL 타입 자동생성 적용",
       "디자인 시스템 컴포넌트화"
@@ -16,7 +27,7 @@
       {
         "name": "모디팩토리 웹",
         "summary": "전자회로 디자인 자동화 서비스",
-        "member": "3 (1 백엔드 개발자, 1 프론트엔드 개발자, 1 스크래핑 개발자)",
+        "member": "8 (2 백엔드 개발자, 2 프론트엔드 개발자, 4 알고리즘 개발자)",
         "position": "프론트엔드 개발자",
         "environment": [
           "프레임워크 : Next.js",
@@ -41,9 +52,47 @@
           },
           {
             "title": "디자인 시스템 적용",
+            "explanation": ["공통 컴포넌트화를 통해 작업시간 단축"]
+          }
+        ]
+      },
+      {
+        "name": "주차통합 시스템 관리자 페이지",
+        "summary": "주차 관제 서비스",
+        "startDate": "2024-07",
+        "endDate": "2024-08",
+        "member": "8 (2 백엔드 개발자, 2 프론트엔드 개발자, 1 앱 개발자, 3 펌웨어 개발자)",
+        "position": "프론트엔드, 모바일 앱 개발자",
+        "environment": [
+          "프레임워크 : React, Dart, Kotlin",
+          "사용언어 : HTML, CSS, TypeScript, Dart, Kotlin",
+          "상태관리 : Zustand",
+          "스타일링 라이브러리 : Ant Design, Tailwind CSS"
+        ],
+        "descList": [
+          {
+            "title": "안드로이드 BLE 개발",
             "explanation": [
-              "공통 컴포넌트화를 통해 작업시간 단축"
+              "Android Method Channel 연결",
+              "게이트 출입, 비상호출 advertising"
             ]
+          },
+          {
+            "title": "RTSP 연결(WebRTC)",
+            "explanation": [
+              "비상호출 통화를 위해 저지연 통신 필요",
+              "클라이언트 부분 WebRTC 개발",
+              "Signaling을 위해 Web Socket 연결 및 이벤트 처리"
+            ]
+          },
+          {
+            "title": "일괄등록 기능 개발",
+            "explanation": [
+              "XLSX 라이브러리를 이용해, JSON to excel, excel to JSON 구현 및 서버 통신"
+            ]
+          },
+          {
+            "title": "관리 페이지 대부분"
           }
         ]
       }
@@ -263,6 +312,10 @@
               "기기 UUID 가져오는 기능",
               "폴더 절대경로 가져오는 기능"
             ]
+          },
+          {
+            "title": "FCM 구현",
+            "explanation": ["푸시 메시지 처리를 위해 FCM 개발"]
           },
           { "title": "웹 페이지와 동일하게 개발" },
           {

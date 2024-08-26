@@ -6,8 +6,19 @@
     "startDate": "2024-03",
     "endDate": "Now",
     "position": "Frontend developer",
-    "skillList": ["Next", "TypeScript", "HTML", "CSS", "GraphQL", "Tailwind"],
+    "skillList": [
+      "React",
+      "Next",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "GraphQL",
+      "Tailwind",
+      "Dart",
+      "Kotlin"
+    ],
     "summary": [
+      "Developed WebRTC for RTSP connection.",
       "Developed web frontend, including products, users management pages and 3D electric circuit viewer.",
       "Implemented GraphQL for auto-generating types.",
       "Implemented a common Design System to facilitate faster and more accurate development.",
@@ -17,7 +28,7 @@
       {
         "name": "Modifactory web",
         "summary": "Electronic design automation web",
-        "member": "4 (2 Backend developers, 2 Frontend developers)",
+        "member": "8 (2 Backend developers, 2 Frontend developers, 4 algorithm developers)",
         "position": "Frontend developer",
         "environment": [
           "Framework : Next.js",
@@ -45,6 +56,46 @@
             "explanation": [
               "Implementing customized NextUI for a faster and correct development."
             ]
+          }
+        ]
+      },
+      {
+        "name": "Developing Parking System Admin Page",
+        "summary": "Parking management service.",
+        "startDate": "2024-07",
+        "endDate": "2024-08",
+        "member": "8 (2 Backend developers, 2 Frontend developers, 1 Mobile App developer, 3 Firmware developers)",
+        "position": "Frontend and mobile app developer",
+        "environment": [
+          "Framework : React, Dart, Kotlin",
+          "Languages : HTML, CSS, TypeScript, Dart, Kotlin",
+          "State Management : Zustand",
+          "Styling libraries : Ant Design, Tailwind CSS"
+        ],
+        "descList": [
+          {
+            "title": "DEveloping Android BLE",
+            "explanation": [
+              "Connecting Android Method Channel",
+              "Developing Advertising feature for gate access, emergency call"
+            ]
+          },
+          {
+            "title": "Connecting RTSP with WebRTC",
+            "explanation": [
+              "A low-latency connection was needed for the emergency call",
+              "DEveloping WebRTC for client side",
+              "Connecting Web Socket and handling event for signalling"
+            ]
+          },
+          {
+            "title": "Developing a bulk upload feature",
+            "explanation": [
+              "Developing JSON to excel, excel to JSON with XLSX library and connecting with server"
+            ]
+          },
+          {
+            "title": "Developing most of the admin pages"
           }
         ]
       }
@@ -270,6 +321,10 @@
               "Getting UUID feature",
               "Getting absolute path of download folder"
             ]
+          },
+          {
+            "title": "Implementing FCM",
+            "explanation": ["Developing FCM for Managing Push Notifications"]
           },
           { "title": "Developing UI similar with Web" },
           {
