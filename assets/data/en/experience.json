@@ -74,7 +74,7 @@
         ],
         "descList": [
           {
-            "title": "DEveloping Android BLE",
+            "title": "Developing Android BLE",
             "explanation": [
               "Connecting Android Method Channel",
               "Developing Advertising feature for gate access, emergency call"
@@ -93,6 +93,9 @@
             "explanation": [
               "Developing JSON to excel, excel to JSON with XLSX library and connecting with server"
             ]
+          },
+          {
+            "title": "Developing HTML to PDF"
           },
           {
             "title": "Developing most of the admin pages"
