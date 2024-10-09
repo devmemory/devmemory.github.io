@@ -19,7 +19,10 @@
     ],
     "summary": [
       "RTSP연결을 위해 클라이언트 WebRTC개발",
-      "서킷 프로젝트 관리, 유저 관리, 3D pcb viewer 등 개발 진행",
+      "PortOne 결제 모듈, 다음 포스트 등 3rd party library 구현",
+      "서킷 프로젝트 관리, 결제, 관리자 페이지,유저 관리, 3D pcb viewer 등 개발 진행",
+      "Android BLE advertising 개발 및 Flutter method channel 연결",
+      "비상 호출 등 실시간 데이터 처리를 위해 WebSocket 연결",
       "GraphQL 타입 자동생성 적용",
       "디자인 시스템 컴포넌트화"
     ],
@@ -36,10 +39,15 @@
         ],
         "descList": [
           {
+            "title": "3rd party 라이브러리 연결",
+            "explanation": ["주소검색 : DaumPost", "결제모듈 : PortOne"]
+          },
+          {
             "title": "페이지 리뉴얼 및 재개발",
             "explanation": [
               "아웃소싱 코드 제거 및 리팩토링",
-              "새로 기획된 페이지 개발"
+              "새로 기획된 제품 페이지 개발",
+              "어드민 페이지 개발"
             ]
           },
           {

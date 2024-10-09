@@ -19,7 +19,10 @@
     ],
     "summary": [
       "Developed WebRTC for RTSP connection.",
-      "Developed web frontend, including products, users management pages and 3D electric circuit viewer.",
+      "Developed pay module, address searching module.",
+      "Developed web frontend, including product, admin, billing, user management pages.",
+      "Developed Android BLE advertising and connecting Flutter with a method channel",
+      "Implemented WebSocket to deal with real time situation such as emergency call",
       "Implemented GraphQL for auto-generating types.",
       "Implemented a common Design System to facilitate faster and more accurate development.",
       "Established and implemented comprehensive code guidelines, significantly improving code maintenance and readability."
