@@ -1,0 +1,37 @@
+{
+  "position": "Front-end developer",
+  "name": "Kim Dong Hwa",
+  "email": "devmemorydh@gmail.com",
+  "location": "Hongseong, ChungchengNamdo",
+  "latLng": {
+    "lng": 126.674669000951,
+    "lat": 36.6533998108206
+  },
+  "status": "Currently Looking for a new opportunity",
+  "about": [
+    {
+      "gap": true,
+      "text": "Frontend Developer with 2.5 years of experience creating and maintaining web frontend and hybrid mobile application. Proficient in JavaScript, TypeScript, HTML, CSS, and modern frameworks like React, Svelte, Flutter. Passionate about continuous learning and seeking challenging projects to further enhance skills and contribute to innovative solutions."
+    }
+  ],
+  "etcInfoList": [
+    {
+      "title": "Education",
+      "name": "Kongju National University",
+      "date": "2010-03 - 2017-02",
+      "summary": [
+        "Bachelor's degree",
+        "Electrical and Electronics engineering",
+        "3.5/4.5 GPA"
+      ],
+      "link": "https://english.kongju.ac.kr/eng/14038/subview.do"
+    },
+    {
+      "title": "English test score",
+      "name": "OPIC",
+      "date": "2018-10",
+      "summary": ["Intermediate High"],
+      "link": "/assets/img/etc/opic.jpg"
+    }
+  ]
+}

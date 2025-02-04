@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Web portfolio page",
+    "link": "https://devmemory.github.io/",
+    "bg": "/assets/img/intro/developer.png",
+    "startDate": "2023-09-04",
+    "endDate": "2023-10-25",
+    "desc": [
+      "Designed and developed a personalized webpage to showcase my skills, experiences, and projects.",
+      "Explored and experimented with innovative features to demonstrate my interest in continuous learning and creativity."
+    ]
+  },
+  {
+    "title": "JavaScript open source library",
+    "link": "https://www.npmjs.com/package/userevent-tracker",
+    "bg": "/assets/img/project/npm.jpeg",
+    "startDate": "2023-06-04",
+    "endDate": "2023-06-13",
+    "desc": [
+      "Conceptualized and developed a user event tracking system using TypeScript for enhanced analytics."
+    ]
+  },
+  {
+    "title": "Flutter open source package",
+    "link": "https://pub.dev/packages/kakaomap_webview",
+    "bg": "/assets/img/project/pub_dev.jpeg",
+    "startDate": "2022-06-05",
+    "endDate": "2023-05-03",
+    "desc": [
+      "Developed and successfully deployed the Kakaomap library, a powerful solution for integrating Kakao maps into Flutter applications.",
+      "Garnered widespread adoption, with over 100 apps utilizing the library as their preferred method for implementing Kakao maps."
+    ]
+  },
+  {
+    "title": "Development blog",
+    "link": "https://devmemory.tistory.com/",
+    "bg": "/assets/img/project/blog.jpeg",
+    "startDate": "2020-08-03",
+    "endDate": "Now",
+    "desc": [
+      "Documented and shared my development journey, providing insights into various projects, technologies, and challenges.",
+      "Attracted a consistent audience with around 100 daily users finding valuable content on the blog.",
+      "Achieved a significant milestone with over 100,000 total visitors, reflecting the blog's impact within the developer community."
+    ]
+  }
+]

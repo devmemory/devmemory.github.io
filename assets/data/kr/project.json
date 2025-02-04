@@ -1,0 +1,41 @@
+[
+  {
+    "title": "웹 포트폴리오 페이지",
+    "link": "https://devmemory.github.io/",
+    "bg": "/assets/img/intro/developer.png",
+    "startDate": "2023-09-04",
+    "endDate": "2023-10-25",
+    "desc": ["개인 이력 정리 및 show case", "실험 기능들 테스트"]
+  },
+  {
+    "title": "JS 라이브러리 배포",
+    "link": "https://www.npmjs.com/package/userevent-tracker",
+    "bg": "/assets/img/project/npm.jpeg",
+    "summary": "사용자 이벤트 트래킹 라이브러리",
+    "startDate": "2023-06-04",
+    "endDate": "2023-06-13",
+    "desc": ["비즈니스 개선을 위한 유저 이벤트 트래킹 개발 및 배포"]
+  },
+  {
+    "title": "플러터 패키지 배포",
+    "link": "https://pub.dev/packages/kakaomap_webview",
+    "bg": "/assets/img/project/pub_dev.jpeg",
+    "startDate": "2022-06-05",
+    "endDate": "2023-05-03",
+    "desc": [
+      "카카오맵 플러터 웹뷰 패키지 개발 및 배포",
+      "100개 이상의 앱에서 사용중인 오픈 소스 라이브러리"
+    ]
+  },
+  {
+    "title": "개인 블로그",
+    "link": "https://devmemory.tistory.com/",
+    "bg": "/assets/img/project/blog.jpeg",
+    "startDate": "2020-08-03",
+    "endDate": "Now",
+    "desc": [
+      "고민했던 포인트, 도전적인 프로젝트를 개발하면서 발생한 일들을 기록중인 블로그",
+      "전체 방문 100,000 달성, 매일 100 내외로 방문중"
+    ]
+  }
+]

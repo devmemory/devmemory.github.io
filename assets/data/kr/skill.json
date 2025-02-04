@@ -1,0 +1,121 @@
+[
+  {
+    "title": "Strong",
+    "list": [
+      {
+        "img": "/assets/img/skills/html.svg",
+        "title": "HTML",
+        "desc": "모든 태그를 사용해보지는 않았지만, 화면 구현에 필요한 태그를 선택해 가면서 현업에서 퍼블리싱도 진행하고 있습니다. 접근성을 위해 Semantic tag를 사용합니다."
+      },
+      {
+        "img": "/assets/img/skills/css.svg",
+        "title": "CSS",
+        "desc": "아래 링크에 해당되는 정도의 수준은 도달하지 못하겠지만, 기본적으로 화면, 반응형 및 애니메이션을 구현할 수 있습니다.",
+        "link": "https://dev.to/afif/31-single-div-illustration-the-divtober-collection-aik"
+      },
+      {
+        "img": "/assets/img/skills/js.svg",
+        "title": "JavaScript",
+        "desc": "웹 개발을 시작하고 나서 주로 사용해온 언어로, Dart와 유사한점이 많아서 러닝커브는 상대적으로 낮았던거 같습니다. JS 딥다이브를 읽으면서 부족한 부분들을 채워나가고 있고, 현재는 타입추론 및 런타임에 발생할 수 있는 문제를 해결하기 위해 TypeScript를 주로 사용하고 있습니다."
+      },
+      {
+        "img": "/assets/img/skills/ts.svg",
+        "title": "TypeScript",
+        "desc": "Dart나 Kotlin, Java와 같이 강력한 정적타입 언어를 사용하다가 JS를 사용했을 때, 동적 타입이 주는 불편함을 덜어주는 용도, 그리고 타입 추론할 때 많은 도움을 받고 있습니다."
+      },
+      {
+        "img": "/assets/img/skills/react.svg",
+        "title": "React",
+        "desc": "class, functional 컴포넌트 두개 다 활용해본 경험이 있고, JSX구조, 상태관리등에 대한 이해를 하고 개발하고 있습니다. 불필요한 Memoization은 하지 않습니다."
+      },
+      {
+        "img": "/assets/img/skills/redux.svg",
+        "title": "Redux",
+        "desc": "전역 상태관리로 props drilling을 피하기 위해 사용하고 있는데, 복잡도를 늘리지 않는 선에서 작업을 진행하고 있습니다. 최근에는 boilerplate가 적은 Zustand로 개발하고 있고, 전역 상태관리를 최대한 덜 사용하는쪽으로 작업하고 있습니다."
+      },
+      {
+        "img": "/assets/img/skills/svelte.svg",
+        "title": "Svelte",
+        "desc": "양방향 바인딩과 virtual dom을 사용하지 않는 환경, 그리고 reactive한 상태변경 방식, 낮은 러닝커브로 재밌게 개발했으나 일자리가 없어서 메인으로 개발하고 있지 않습니다."
+      },
+      {
+        "img": "/assets/img/skills/flutter.svg",
+        "title": "Flutter",
+        "desc": "개발자 첫 시작을 Flutter로 해서, Provider를 이용한 MVVM 패턴으로 개발을 해왔고, 개인앱, 오픈소스 라이브러리를 배포해본 경험이 있습니다.",
+        "link": "https://pub.dev/packages/kakaomap_webview"
+      },
+      {
+        "img": "/assets/img/skills/bundler.png",
+        "title": "Bundler",
+        "desc": "번들 사이즈 개선 및 필요한 옵션들을 변경하기 위해 사용하고 있습니다. 최근에 Babel에서 esbuild로 마이그레이션을 진행해봤고 생각보다 만족스러운 결과를 얻어서 Vite대신 사용할 여지도 있을거 같습니다."
+      }
+    ]
+  },
+  {
+    "title": "Knowledgeable",
+    "list": [
+      {
+        "img": "/assets/img/skills/jest.svg",
+        "title": "Jest",
+        "desc": "최근에 과제전형을 진행하면서 한번 연습해봤는데, 테스트 케이스를 작성하면서 놓쳤던 부분을 찾을 수 있어서 중요성을 다시한번 알게되었고, 앞으로 사용해 나갈 예정입니다."
+      },
+      {
+        "img": "/assets/img/skills/node.svg",
+        "title": "Node",
+        "desc": "간단한 테스트 서버를 MVC구조로 개발하고 있고, 필요에 따라서 타사 모듈과 연동, 스크래핑 데이터 처리 등을 해봤지만 DB와 OS쪽이 현재 부족해서 스터디중입니다."
+      },
+      {
+        "img": "/assets/img/skills/express.svg",
+        "title": "Express",
+        "desc": "노드를 조금 더 편하게 개발하기 위해 express를 사용하고 있습니다. 특히 router 설정 하는 부분이 편리하다고 생각합니다."
+      },
+      {
+        "img": "/assets/img/skills/mongodb.svg",
+        "title": "MongoDB",
+        "desc": "현재 스터디 중인 db입니다. 간단한 CRUD는 해봤고, 추후에 개인 프로젝트 진행시 사용할 예정입니다."
+      },
+      {
+        "img": "/assets/img/skills/android.svg",
+        "title": "Android",
+        "desc": "Flutter개발 이전에 Java로 간단한 Todo앱을 개발해봤고, Flutter에서 PlatformView, Method channel을 사용할 때 Kotlin으로 개발해본 경험이 있습니다."
+      }
+    ]
+  },
+  {
+    "title": "ETC",
+    "list": [
+      {
+        "img": "/assets/img/skills/nginx.svg",
+        "title": "NGINX",
+        "desc": "build한 리액트 웹 테스트, 현장에 직접 배포를 하는 경우가 있어서, 필요한 셋팅들을 적용해서 배포해본적이 있습니다."
+      },
+      {
+        "img": "/assets/img/skills/docker.svg",
+        "title": "Docker",
+        "desc": "개발한 React 웹 번들링 및 NGINX를 이용해서 이미지를 만들고 개인 Ubuntu pc에서 사용중입니다."
+      },
+      {
+        "img": "/assets/img/skills/webrtc.svg",
+        "title": "WebRTC",
+        "desc": "현재 관심있는 기술중 하나로, 웹 프론트, 모바일 앱, 시그널링 서버를 이용해서 구현해본 경험이 있습니다.",
+        "link": "https://devmemory.tistory.com/107"
+      },
+      {
+        "img": "/assets/img/skills/three.svg",
+        "title": "Three.js",
+        "desc": "현재 관심있는 기술중 하나로, 3d 개발에 관심이 생겨서 WebGL, WebGPU에 대해 알아봤고, 베타버전이 아니어서 선택 후 간단한 예제로 구현해본 경험이 있습니다.",
+        "link": "/"
+      },
+      {
+        "img": "/assets/img/skills/firebase.svg",
+        "title": "Firebase",
+        "desc": "모바일 개발자로 취직하기전에, 포트폴리오로 게시판 형태로 만들어서 플러터와 연동해본 경험이 있습니다."
+      },
+      {
+        "img": "/assets/img/skills/sqlite.svg",
+        "title": "SQLite",
+        "desc": "모바일 앱을 개발할 때 사용해왔고, 노드에서 간단한 테스트 서버를 만들고 데이터를 저장할 때 사용해봤습니다."
+      }
+    ]
+  }
+]
