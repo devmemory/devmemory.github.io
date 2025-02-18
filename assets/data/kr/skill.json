@@ -104,7 +104,7 @@
         "img": "/assets/img/skills/three.svg",
         "title": "Three.js",
         "desc": "현재 관심있는 기술중 하나로, 3d 개발에 관심이 생겨서 WebGL, WebGPU에 대해 알아봤고, 베타버전이 아니어서 선택 후 간단한 예제로 구현해본 경험이 있습니다.",
-        "link": "/"
+        "link": "https://devmemory.github.io/gerber-3d-viewer/"
       },
       {
         "img": "/assets/img/skills/firebase.svg",
