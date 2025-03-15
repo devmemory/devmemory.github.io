@@ -10,7 +10,7 @@
   {
     "title": "PCB 3D 뷰어",
     "link": "https://devmemory.github.io/gerber-3d-viewer",
-    "bg": "/assets/img/project/pcb_img.png",
+    "bg": "/assets/img/project/pcb.png",
     "startDate": "2024-12-08",
     "endDate": "2024-12-21",
     "desc": ["Three.js를 이용한 Gerber file 시각화 페이지", "PCB top, bottom 이미지 추출"]

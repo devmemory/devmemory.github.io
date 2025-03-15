@@ -11,6 +11,17 @@
     ]
   },
   {
+    "title": "PCB 3D Viewer",
+    "link": "https://devmemory.github.io/gerber-3d-viewer",
+    "bg": "/assets/img/project/pcb.png",
+    "startDate": "2024-12-08",
+    "endDate": "2024-12-21",
+    "desc": [
+      "Visualizing 3D PCB from gerber file",
+      "Extracting PCB top and bottom view"
+    ]
+  },
+  {
     "title": "JavaScript open source library",
     "link": "https://www.npmjs.com/package/userevent-tracker",
     "bg": "/assets/img/project/npm.jpeg",

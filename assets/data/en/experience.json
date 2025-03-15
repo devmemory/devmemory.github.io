@@ -17,6 +17,10 @@
       "Dart",
       "Kotlin"
     ],
+    "imageList": [
+      "/assets/img/experience/luxrobo/logic.gif",
+      "/assets/img/experience/luxrobo/cctv.gif"
+    ],
     "summary": [
       "Developed WebRTC for IP CCTV with RTSP, enabling real-time video monitoring.",
       "Built a payment module and address search module to enhance the user experience.",
@@ -129,11 +133,9 @@
       "CSS",
       "NGINX"
     ],
-    "linkList": [
-      {
-        "link": "https://www.gaonpf.com/kor/sub03/menu_01.html?pd_idx=2",
-        "icon": 0
-      }
+    "imageList": [
+      "/assets/img/experience/gaon/logic.png",
+      "/assets/img/experience/gaon/failure.png"
     ],
     "summary": [
       "Developed frontend applications for plant fault diagnosis and logic gate visualization.",
@@ -249,12 +251,6 @@
     "endDate": "2022-12",
     "position": "Frontend and mobile app developer",
     "skillList": ["Svelte", "JavaScript", "HTML", "CSS", "Flutter", "Dart"],
-    "linkList": [
-      {
-        "link": "https://www.bubdaelaw.com/",
-        "icon": 0
-      }
-    ],
     "summary": [
       "Led frontend development, including billing systems, legal care management, and social login.",
       "Successfully deployed a major project within 6 months, supporting an investment meeting and aligning with business goals.",
@@ -363,16 +359,6 @@
       "JavaScript",
       "HTML",
       "CSS"
-    ],
-    "linkList": [
-      {
-        "link": "https://play.google.com/store/apps/details?id=com.reindeer.g9bonapp",
-        "icon": 1
-      },
-      {
-        "link": "https://apps.apple.com/kr/app/%EC%A7%80%EA%B5%AC%EB%B3%B8%EB%8B%B7%EC%BB%B4-%EB%B9%84%EB%94%94%EC%98%A4-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C-g9bon/id1489286016",
-        "icon": 2
-      }
     ],
     "summary": [
       "Optimized video performance, improving rendering speed by 10 frames per second.",

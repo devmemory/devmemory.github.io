@@ -20,6 +20,10 @@
       "NGINX",
       "Github Actions"
     ],
+    "imageList": [
+      "/assets/img/experience/luxrobo/logic.gif",
+      "/assets/img/experience/luxrobo/cctv.gif"
+    ],
     "summary": [
       "SVG기반 라이브러리를 이용한 PCB개발 CAD 툴 제작",
       "IP CCTV 연결을 위해 RTSP로 받아온 영상, 음성을 WebRTC로 서버와 통신",
@@ -179,11 +183,9 @@
       "CSS",
       "NGINX"
     ],
-    "linkList": [
-      {
-        "link": "https://www.gaonpf.com/kor/sub03/menu_01.html?pd_idx=2",
-        "icon": 0
-      }
+    "imageList": [
+      "/assets/img/experience/gaon/logic.png",
+      "/assets/img/experience/gaon/failure.png"
     ],
     "summary": [
       "기존 polling 기반 실시간 처리 로직을 WebSocket 통신으로 오버헤드 개선",
@@ -299,12 +301,6 @@
     "endDate": "2022-12",
     "position": "프론트엔드, 모바일 앱 개발자",
     "skillList": ["Svelte", "JavaScript", "HTML", "CSS", "Flutter", "Dart"],
-    "linkList": [
-      {
-        "link": "https://www.bubdaelaw.com/",
-        "icon": 0
-      }
-    ],
     "summary": [
       "변호사 - 고객간의 통화 기능을 위한 P2P 통신 개발",
       "문답 형식의 UI/UX 개발을 통해 법률 진단 프로세스 개발",
@@ -397,16 +393,6 @@
       "JavaScript",
       "HTML",
       "CSS"
-    ],
-    "linkList": [
-      {
-        "link": "https://play.google.com/store/apps/details?id=com.reindeer.g9bonapp",
-        "icon": 1
-      },
-      {
-        "link": "https://apps.apple.com/kr/app/%EC%A7%80%EA%B5%AC%EB%B3%B8%EB%8B%B7%EC%BB%B4-%EB%B9%84%EB%94%94%EC%98%A4-%EC%97%AC%ED%96%89-%EA%B0%80%EC%9D%B4%EB%93%9C-g9bon/id1489286016",
-        "icon": 2
-      }
     ],
     "summary": [
       "Widget구조, 비디오 로직 개선을 통해 10프레임 이상 성능 향상",
