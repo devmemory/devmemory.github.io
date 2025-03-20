@@ -7,7 +7,7 @@
         "title": "HTML",
         "desc": [
           "Proficient in writing semantic HTML for accessibility and SEO optimization.",
-          "Familiarity with modern HTML5 tags for structuring content effectively."
+          "Familiar with modern HTML5 tags for structuring content effectively."
         ]
       },
       {
@@ -97,7 +97,7 @@
       },
       {
         "img": "/assets/img/skills/node.svg",
-        "title": "Node",
+        "title": "Node.js",
         "desc": [
           "Familiar with Node.js for server-side JavaScript development.",
           "Exposure to building simple REST APIs and various features using Express."
@@ -142,23 +142,36 @@
       {
         "img": "/assets/img/skills/docker.svg",
         "title": "Docker",
-        "desc": ["Exposure to Docker for containerization of applications."]
+        "desc": [
+          "Containerized applications using Docker.",
+          "Basic understanding of the app development process."
+        ]
       },
       {
         "img": "/assets/img/skills/webrtc.svg",
         "title": "WebRTC",
         "desc": [
-          "Familiarity with WebRTC for real-time communication in web applications.",
-          "Exposure to peer-to-peer connections and media streaming using WebRTC."
+          "Familiar with WebRTC for real-time communication in web applications.",
+          "Experience with peer-to-peer connections and media streaming using WebRTC.",
+          "Worked with NVR CCTV streaming via RTSP."
         ],
-        "link": "https://devmemory.tistory.com/107"
+        "link": "https://github.com/devmemory/webrtc_example"
+      },
+      {
+        "img": "/assets/img/skills/hls.svg",
+        "title": "HLS",
+        "desc": [
+          "Converted video to HLS format using FFmpeg.",
+          "Streamed HLS video using HLS.js."
+        ],
+        "link": "https://github.com/devmemory/hls_example"
       },
       {
         "img": "/assets/img/skills/three.svg",
         "title": "Three.js",
         "desc": [
           "Basic understanding of Three.js for creating 3D graphics in web applications.",
-          "Exposure to building simple 3D scenes and animations."
+          "Experienced to build simple 3D scenes and animations."
         ],
         "link": "https://devmemory.github.io/gerber-3d-viewer"
       },

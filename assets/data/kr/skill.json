@@ -57,7 +57,7 @@
       {
         "img": "/assets/img/skills/jest.svg",
         "title": "Jest",
-        "desc": "최근에 과제전형을 진행하면서 한번 연습해봤는데, 테스트 케이스를 작성하면서 놓쳤던 부분을 찾을 수 있어서 중요성을 다시한번 알게되었고, 앞으로 사용해 나갈 예정입니다."
+        "desc": "과제전형을 진행하면서 한번 연습해봤는데, 테스트 케이스를 작성하면서 놓쳤던 부분을 찾을 수 있어서 중요성을 다시한번 알게되었고, 앞으로 사용해 나갈 예정입니다."
       },
       {
         "img": "/assets/img/skills/node.svg",
@@ -87,23 +87,29 @@
       {
         "img": "/assets/img/skills/nginx.svg",
         "title": "NGINX",
-        "desc": "build한 리액트 웹 테스트, 현장에 직접 배포를 하는 경우가 있어서, 필요한 셋팅들을 적용해서 배포해본적이 있습니다."
+        "desc": "번들링한 리액트 웹 테스트, 현장에 직접 배포를 하는 경우가 있어서, 필요한 셋팅들을 적용해서 배포해본 경험이 있습니다."
       },
       {
         "img": "/assets/img/skills/docker.svg",
         "title": "Docker",
-        "desc": "개발한 React 웹 번들링 및 NGINX를 이용해서 이미지를 만들고 개인 Ubuntu pc에서 사용중입니다."
+        "desc": "번들링된 앱 및 NGINX를 이용해서 이미지를 만들고 개인 pc 혹은 현장에서 사용중입니다."
       },
       {
         "img": "/assets/img/skills/webrtc.svg",
         "title": "WebRTC",
-        "desc": "현재 관심있는 기술중 하나로, 웹 프론트, 모바일 앱, 시그널링 서버를 이용해서 구현해본 경험이 있습니다.",
-        "link": "https://devmemory.tistory.com/107"
+        "desc": "웹 프론트, 모바일 앱, 시그널링 서버를 이용해서 구현해본 경험이 있고, CCTV NVR 장비와 연결을 위해 사용한 경험이 있습니다",
+        "link": "https://github.com/devmemory/webrtc_example"
+      },
+      {
+        "img": "/assets/img/skills/hls.svg",
+        "title": "HLS",
+        "desc": "FFmpeg을 이용한 미디어 변환, HLS.js를 이용한 재생한 프로젝트를 해본 경험이 있습니다",
+        "link": "https://github.com/devmemory/hls_example"
       },
       {
         "img": "/assets/img/skills/three.svg",
         "title": "Three.js",
-        "desc": "현재 관심있는 기술중 하나로, 3d 개발에 관심이 생겨서 WebGL, WebGPU에 대해 알아봤고, 베타버전이 아니어서 선택 후 간단한 예제로 구현해본 경험이 있습니다.",
+        "desc": "3d 개발에 대한 관심으로 예제도 만들어보고, 실제품에 도움이 되는 모델을 생성해서 시각화 한 경험이 있습니다",
         "link": "https://devmemory.github.io/gerber-3d-viewer/"
       },
       {
