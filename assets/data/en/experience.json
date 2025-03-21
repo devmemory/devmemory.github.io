@@ -39,6 +39,7 @@
         "environment": [
           "Framework : Next.js",
           "Languages : HTML, CSS, TypeScript",
+          "State Management : Zustand",
           "Styling libraries : NextUI, Tailwind CSS"
         ],
         "descList": [

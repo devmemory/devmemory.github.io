@@ -12,6 +12,7 @@
       "TypeScript",
       "HTML",
       "CSS",
+      "Zustand",
       "GraphQL",
       "Tailwind",
       "Dart",
@@ -41,6 +42,7 @@
         "environment": [
           "프레임워크 : Next.js",
           "사용언어 : HTML, CSS, TypeScript",
+          "상태관리: Zustand",
           "스타일링 라이브러리 : NextUI, Tailwind CSS"
         ],
         "descList": [
