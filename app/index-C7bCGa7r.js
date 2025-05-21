@@ -1,0 +1,1 @@
+import{j as t}from"./index-FDq_qbO-.js";import"./vendor-CO81N9I4.js";const s="_div_container_hhwu5_1",a={div_container:s},n=()=>t.jsx("div",{className:a.div_container,children:t.jsx("iframe",{src:"/assets/data/cv.html"})});export{n as default};
