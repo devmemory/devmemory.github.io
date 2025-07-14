@@ -45,5 +45,16 @@
       "고민했던 포인트, 도전적인 프로젝트를 개발하면서 발생한 일들을 기록중인 블로그",
       "전체 방문 100,000 달성, 매일 100 내외로 방문중"
     ]
+  },
+  {
+    "title": "Cursor Ubuntu installer",
+    "link": "https://github.com/devmemory/cursor-ubuntu-installer",
+    "bg": "/assets/img/project/cursor.png",
+    "startDate": "2025-07-09",
+    "endDate": "2025-07-09",
+    "desc": [
+      "Cursor Ubuntu 설치/삭제 자동화",
+      "설치시 신규버전 갱신 자동화"
+    ]
   }
 ]

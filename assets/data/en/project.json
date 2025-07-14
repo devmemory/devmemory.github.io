@@ -53,5 +53,16 @@
       "Attracted a consistent audience with around 100 daily users finding valuable content on the blog.",
       "Achieved a significant milestone with over 100,000 total visitors, reflecting the blog's impact within the developer community."
     ]
+  },
+  {
+    "title": "Cursor Ubuntu installer",
+    "link": "https://github.com/devmemory/cursor-ubuntu-installer",
+    "bg": "/assets/img/project/cursor.png",
+    "startDate": "2025-07-09",
+    "endDate": "2025-07-09",
+    "desc": [
+      "Automated installation using a single command on Ubuntu",
+      "Automatic version fetching by parsing Cursor’s public version-history JSON"
+    ]
   }
 ]
