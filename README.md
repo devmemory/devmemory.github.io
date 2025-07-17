@@ -40,10 +40,8 @@
 
 ### library
 - @babel/standalone : to convert react code to js
-- @react-pdf/renderer : to generate pdf
 - @react-three/fiber : three wrapper
 - axios : to get data from specific url
-- file-saver : to save pdf
 - leaflet : map library
 - prismjs : to highlight code editor
 - react-query : to optimize API with caching and state management
