@@ -1,0 +1,1 @@
+import{j as t}from"./three-B6j1n8rj.js";import"./react-DOgAZ9X_.js";const s="_div_container_hhwu5_1",a={div_container:s},n=()=>t.jsx("div",{className:a.div_container,children:t.jsx("iframe",{src:"/assets/data/cv.html"})});export{n as default};
