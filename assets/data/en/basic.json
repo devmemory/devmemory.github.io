@@ -1,13 +1,13 @@
 {
-  "position": "Front-end developer",
+  "position": "Fullstack developer",
   "name": "Kim Dong Hwa",
   "email": "devmemorydh@gmail.com",
-  "location": "Yeongdeungpo-gu, Seoul, Republic of Korea",
+  "location": "Chungnam, Republic of Korea",
   "status": "Currently Looking for a new opportunity",
   "about": [
     {
       "gap": true,
-      "text": "Frontend Developer with 3 years of experience creating and maintaining web frontend and hybrid mobile application. Proficient in JavaScript, TypeScript, HTML, CSS, and modern frameworks like React, Svelte, Flutter. Passionate about continuous learning and seeking challenging projects to further enhance skills and contribute to innovative solutions."
+      "text": " Full-Stack Engineer with 4 years of experience building and launching real-time, hardware-integrated systems. Experienced across frontend, backend, and infrastructure, with a focus on systems that operate under real-world constraints such as unstable networks and physical device dependencies. Looking for a stable environment where I can contribute to long-term system development and reliability."
     }
   ],
   "etcInfoList": [

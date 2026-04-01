@@ -1,0 +1,1 @@
+import"./rolldown-runtime-CTWb4Xxa.js";import{a as e,i as t}from"./react-DC_uCbce.js";e();var n={div_container:`_div_container_hhwu5_1`},r=t(),i=()=>(0,r.jsx)(`div`,{className:n.div_container,children:(0,r.jsx)(`iframe`,{src:`/assets/data/cv.html`})});export{i as default};

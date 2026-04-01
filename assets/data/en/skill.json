@@ -1,130 +1,104 @@
 [
   {
-    "title": "Strong",
+    "title": "Language",
     "list": [
+      {
+        "img": "/assets/img/skills/js.svg",
+        "title": "JavaScript",
+        "desc": "Proficient in ESNext syntax with strong experience in asynchronous programming (Promise, async/await) and event-driven architectures."
+      },
+      {
+        "img": "/assets/img/skills/ts.svg",
+        "title": "TypeScript",
+        "desc": "Experienced in writing robust, type-safe code using static typing, generics, and type inference for maintainable and scalable applications."
+      }
+    ]
+  },
+  {
+    "title": "Frontend",
+    "list": [
+      {
+        "img": "/assets/img/skills/react.svg",
+        "title": "React",
+        "desc": [
+          "Solid understanding of React Fiber architecture and rendering behavior, including reconciliation and scheduling.",
+          "Experienced in building applications using Hooks and functional component patterns.",
+          "Skilled in designing component structures with a focus on reusability and rendering performance optimization."
+        ]
+      },
       {
         "img": "/assets/img/skills/html.svg",
         "title": "HTML",
-        "desc": [
-          "Proficient in writing semantic HTML for accessibility and SEO optimization.",
-          "Familiar with modern HTML5 tags for structuring content effectively."
-        ]
+        "desc": "Able to design semantic markup structures with consideration for accessibility and SEO."
       },
       {
         "img": "/assets/img/skills/css.svg",
         "title": "CSS",
         "desc": [
-          "Advanced knowledge of CSS3, including Flexbox and Grid for responsive and fluid layouts.",
-          "Proficient in CSS animations for creating engaging and visually appealing user interfaces.",
-          "The link is what I've noted."
-        ],
-        "link": "https://dev.to/afif/31-single-div-illustration-the-divtober-collection-aik"
-      },
-      {
-        "img": "/assets/img/skills/js.svg",
-        "title": "JavaScript",
-        "desc": [
-          "Strong command of JavaScript (ES6+), leveraging modern features.",
-          "Skillful in asynchronous programming, Promises, and async/await for efficient data handling."
+          "Experienced in building responsive UIs using Flexbox and Grid.",
+          "Skilled in enhancing UI/UX with animations and modern styling techniques."
         ]
-      },
-      {
-        "img": "/assets/img/skills/ts.svg",
-        "title": "TypeScript",
-        "desc": [
-          "Proficient in TypeScript for static typing, enhancing code quality and developer collaboration.",
-          "Utilized TypeScript interfaces and types for clear and maintainable code."
-        ]
-      },
-      {
-        "img": "/assets/img/skills/react.svg",
-        "title": "React",
-        "desc": [
-          "Proficient in creating dynamic and interactive user interfaces using React.",
-          "In-depth understanding of JSX syntax and its translation to React.createElement(tag, attrs, children).",
-          "Experience with component-based architecture, emphasizing reusability and maintainability.",
-          "Expertise in state management with React Hooks and Flux pattern for larger-scale applications.",
-          "Familiarity with React Router for efficient navigation in single-page applications."
-        ]
-      },
-      {
-        "img": "/assets/img/skills/redux.svg",
-        "title": "Redux",
-        "desc": [
-          "Implemented Redux for efficient state management in complex applications.",
-          "Proficient in actions, reducers, and middleware to handle application state.",
-          "Currently working with Zustand."
-        ]
-      },
-      {
-        "img": "/assets/img/skills/svelte.svg",
-        "title": "Svelte",
-        "desc": [
-          "Experience with Svelte, a modern JavaScript framework for building lightweight and performant web applications.",
-          "Utilized Svelte's reactive framework for efficient DOM manipulation."
-        ]
-      },
-      {
-        "img": "/assets/img/skills/flutter.svg",
-        "title": "Flutter",
-        "desc": [
-          "Proficient in Flutter for cross-platform mobile app development.",
-          "Created engaging and responsive user interfaces with Flutter widgets.",
-          "Created open source library which is used over 100 apps."
-        ],
-        "link": "https://pub.dev/packages/kakaomap_webview"
       },
       {
         "img": "/assets/img/skills/bundler.png",
         "title": "Bundler",
         "desc": [
-          "Webpack: Utilized Webpack for bundling and managing assets, optimizing the performance of web applications.",
-          "Babel: Integrated Babel for transpiling modern JavaScript/TypeScript code to ensure compatibility across browsers.",
-          "esbuild: Familiarity with esbuild for fast and efficient bundling and minification of code."
+          "Experienced in configuring and optimizing build environments using tools like Webpack and Vite.",
+          "Improved application performance through techniques such as code splitting and bundle optimization."
         ]
+      },
+      {
+        "img": "/assets/img/skills/jest.svg",
+        "title": "Jest",
+        "desc": "Experience in writing unit and basic integration tests to ensure code reliability and maintainability."
+      },
+      {
+        "img": "/assets/img/skills/three.svg",
+        "title": "Three.js",
+        "desc": "Experience in implementing basic 3D rendering and interactions, including web-based visualization projects.",
+        "link": "https://devmemory.github.io/gerber-3d-viewer"
+      },
+      {
+        "img": "/assets/img/skills/flutter.svg",
+        "title": "Flutter",
+        "desc": "Started development with Flutter, implementing MVVM architecture using Provider. Experienced in building personal apps and publishing open-source libraries.",
+        "link": "https://pub.dev/packages/kakaomap_webview"
       }
     ]
   },
   {
-    "title": "Knowledgeable",
+    "title": "Backend",
     "list": [
-      {
-        "img": "/assets/img/skills/jest.svg",
-        "title": "Jest",
-        "desc": [
-          "Implemented unit testing with Jest and React Testing Library for code reliability."
-        ]
-      },
       {
         "img": "/assets/img/skills/node.svg",
         "title": "Node.js",
+        "desc": "Strong understanding of the event loop and asynchronous architecture, with experience building and operating RESTful APIs."
+      },
+      {
+        "img": "/assets/img/skills/nest.svg",
+        "title": "NestJS",
         "desc": [
-          "Familiar with Node.js for server-side JavaScript development.",
-          "Exposure to building simple REST APIs and various features using Express."
+          "Experience designing scalable server architectures using a modular approach.",
+          "Familiar with structured development using Guards, Interceptors, and Pipes."
         ]
       },
       {
-        "img": "/assets/img/skills/express.svg",
-        "title": "Express",
+        "img": "/assets/img/skills/typeorm.png",
+        "title": "TypeORM",
+        "desc": "Experienced in entity-based data modeling and writing complex queries using QueryBuilder."
+      },
+      {
+        "img": "/assets/img/skills/postgresql.svg",
+        "title": "PostgreSQL",
         "desc": [
-          "Basic understanding of Express framework for building web applications and APIs."
+          "Experience in relational data modeling and query optimization using indexes and transactions.",
+          "Hands-on experience operating and maintaining production database systems."
         ]
       },
       {
-        "img": "/assets/img/skills/mongodb.svg",
-        "title": "MongoDB",
-        "desc": [
-          "Familiarity with MongoDB for NoSQL database interactions.",
-          "Basic knowledge of CRUD operations and document-based data modeling."
-        ]
-      },
-      {
-        "img": "/assets/img/skills/android.svg",
-        "title": "Android",
-        "desc": [
-          "Exposure to Android development for mobile applications.",
-          "Familiar with method channel and platform view for Flutter."
-        ]
+        "img": "/assets/img/skills/redis.svg",
+        "title": "Redis",
+        "desc": "Experience improving system performance by implementing caching, session management, and Pub/Sub messaging patterns."
       }
     ]
   },
@@ -132,28 +106,36 @@
     "title": "ETC",
     "list": [
       {
-        "img": "/assets/img/skills/nginx.svg",
-        "title": "NGINX",
-        "desc": [
-          "Familiar with NGINX as a web server and reverse proxy.",
-          "Basic understanding of configuring NGINX for routing."
-        ]
-      },
-      {
         "img": "/assets/img/skills/docker.svg",
         "title": "Docker",
         "desc": [
-          "Containerized applications using Docker.",
-          "Basic understanding of the app development process."
+          "Experience building and operating containerized development and deployment environments.",
+          "Familiar with multi-service architecture using Docker Compose."
+        ]
+      },
+      {
+        "img": "/assets/img/skills/nginx.svg",
+        "title": "NGINX",
+        "desc": [
+          "Configured reverse proxy setups for routing multiple services.",
+          "Experience deploying and operating HTTPS services using SSL/TLS."
+        ]
+      },
+      {
+        "img": "/assets/img/skills/aws.svg",
+        "title": "AWS",
+        "desc": [
+          "Deployed NestJS, PostgreSQL, and Redis using Docker Compose on EC2, configured domain routing via Route53, and set up TLS using Certbot.",
+          "Improved upload performance and reduced bandwidth usage using S3 presigned URLs.",
+          "Deployed React applications using AWS Amplify."
         ]
       },
       {
         "img": "/assets/img/skills/webrtc.svg",
         "title": "WebRTC",
         "desc": [
-          "Familiar with WebRTC for real-time communication in web applications.",
-          "Experience with peer-to-peer connections and media streaming using WebRTC.",
-          "Worked with NVR CCTV streaming via RTSP."
+          "Implemented real-time communication using web frontend, mobile apps, and signaling servers.",
+          "Applied in real-world scenarios such as CCTV NVR integration where low latency is critical despite potential data loss."
         ],
         "link": "https://github.com/devmemory/webrtc_example"
       },
@@ -161,35 +143,10 @@
         "img": "/assets/img/skills/hls.svg",
         "title": "HLS",
         "desc": [
-          "Converted video to HLS format using FFmpeg.",
-          "Streamed HLS video using HLS.js."
+          "Experience with media processing using FFmpeg and playback using HLS.js in both projects and production environments.",
+          "Utilized for stable streaming with low data loss and enhanced content security, despite higher latency."
         ],
         "link": "https://github.com/devmemory/hls_example"
-      },
-      {
-        "img": "/assets/img/skills/three.svg",
-        "title": "Three.js",
-        "desc": [
-          "Basic understanding of Three.js for creating 3D graphics in web applications.",
-          "Experienced to build simple 3D scenes and animations."
-        ],
-        "link": "https://devmemory.github.io/gerber-3d-viewer"
-      },
-      {
-        "img": "/assets/img/skills/firebase.svg",
-        "title": "Firebase",
-        "desc": [
-          "Familiar with Firebase for building and deploying web and mobile applications.",
-          "Basic knowledge of Firebase Authentication and Storage, Messaging."
-        ]
-      },
-      {
-        "img": "/assets/img/skills/sqlite.svg",
-        "title": "SQLite",
-        "desc": [
-          "Exposure to SQLite for lightweight relational database management.",
-          "Basic knowledge of SQL queries and database operations."
-        ]
       }
     ]
   }

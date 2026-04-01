@@ -1,5 +1,110 @@
 [
   {
+    "company": "Outloud Company",
+    "bm": "오프라인 뮤직부스 플랫폼",
+    "pointColor": "#E2FF83",
+    "startDate": "2025-08",
+    "endDate": "2026-01",
+    "position": "풀스택 개발자",
+    "skillList": [
+      "NestJS",
+      "React",
+      "Next",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "TypeORM",
+      "PostgreSQL",
+      "Redis",
+      "Docker",
+      "NGINX",
+      "Docker Compose",
+      "AWS",
+      "FFmpeg",
+      "HLS"
+    ],
+    "imageList": [
+      "public/assets/img/experience/outloud/payment.gif",
+      "/assets/img/experience/outloud/camera.gif"
+    ],
+    "summary": [
+      "시스템 재설계 및 개빌 총괄",
+      "결제모듈, 카메라, 프린터 등 디바이스 연결",
+      "FFmpeg을 이용한 미디어 최적화 및 요구사항 구현",
+      "AWS에 배포 및 도메인 연결",
+      "HLS을 이용한 미디어 전송 시스템 구현"
+    ],
+    "projects": [
+      {
+        "name": "However",
+        "summary": "오프라인 뮤직부스 플랫폼",
+        "member": "2 (1 풀스텍 개발자, 1 프론트엔드 개발자)",
+        "position": "풀스텍 개발자",
+        "environment": [
+          "프레임워크 : NestJS, React, Next.js",
+          "사용언어 : TypeScript, HTML, CSS",
+          "스타일링 라이브러리 : Ant Design, Tailwind CSS",
+          "데이터베이스 : PostgreSQL, Redis",
+          "배포 : Docker, NGINX, Docker Compose, Github Actions, AWS EC2",
+          "ORM : TypeORM",
+          "문서 : Swagger"
+        ],
+        "descList": [
+          {
+            "title": "구조 재설계 및 문서화",
+            "explanation": [
+              "초기 불안정한 시스템 개선 및 빠른 작업 환경 구성으로 개발속도 최적화",
+              "ERD작성 및 Swagger를 통해 문서화하여 주니어 개발자에게 가이드 제공"
+            ]
+          },
+          {
+            "title": "하드웨어 연결",
+            "explanation": [
+              "제조사 SDK를 이용한 프린터, 결제모듈 연결",
+              "브라우저 API를 이용한 카메라 연결"
+            ]
+          },
+          {
+            "title": "FFmpeg 최적화",
+            "explanation": [
+              "하드웨어 가속을 이용해 높은 품질과 속도 확보",
+              "오디오 필터를 이용해 노멀라이저, 이퀄라이저 등 유저가 원하는 형태로 제공"
+            ]
+          },
+          {
+            "title": "음원 라이브 스트리밍 구현",
+            "explanation": ["보안과 사용성을 확보한 HLS 전송 시스템 구현"]
+          },
+          {
+            "title": "AWS 배포 및 최적화",
+            "explanation": [
+              "EC2에 서버 배포, Route 53을 이용해 도메인 연결",
+              "PresignedURL을 이용해 S3에 파일전송을 하여, 대역폭 문제 개선",
+              "Github action을 이용한 CI/CD 자동화로 배포 안정성 및 빠른 업데이트 진행"
+            ]
+          },
+          {
+            "title": "3rd party 연결",
+            "explanation": [
+              "Google Spreadsheet를 연결해 비개발자가 접근하기 편한 형태로 구현",
+              "SMTP를 구현해, 이메일를 전송가능하도록 구현",
+              "WebHook을 이용해서 에러가 발생할때마다 알람을 보내 빠른 대응 가능하도록 구현"
+            ]
+          },
+          {
+            "title": "페이지 단위 개발 범위",
+            "explanation": [
+              "소개 페이지 제작을 통해 서비스 설명자료 확보",
+              "세일즈, 곡 사용량 등 페이지 작업을 통해 B2B형태로 임대 작업 가능한 페이지 제공",
+              "어드민 화면을 통해 일괄 업로드, 곡 사용량 현황, 엑셀자료 추출 등 기능 등 필요기능 구현",
+              "곡 선택, 녹화, 사진찍기, 설문조사 페이지등을 서비스 핵심 로직부분 구현"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "company": "Luxrobo",
     "bm": "회로 설계 서비스 | 주차 통합 시스템",
     "pointColor": "#115DCC",
@@ -8,7 +113,7 @@
     "position": "프론트엔드 개발자",
     "skillList": [
       "React",
-      "Next",
+      "Next.js",
       "TypeScript",
       "HTML",
       "CSS",
